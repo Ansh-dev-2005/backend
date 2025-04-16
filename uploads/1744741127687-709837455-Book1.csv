@@ -1,0 +1,423 @@
+Date,Time,Room,Program Name,Sem,Course Code,Course,ST.Count,Evaluator Name,Packet No.,Barcode,School,Evaluator Email
+03-04-2025,E,5001,BSc_Phy,III,PHYS2024,Mathematical Physics II,4,Manjeet Goyat,SOAE-001,SOAE_10.04.2025_E_PHYS2024_5001_BSc_Phy_Manjeet Goyat_4,SOAE,MSGOYAT@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ADE,III,MEPD2006,Thermodynamics & Heat engines,2,Rajesh Maithani,SOAE-002,SOAE_10.04.2025_E_MEPD2006_5001_BTech_Eng_ADE_Rajesh Maithani_2,SOAE,RMAITHANI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APEU,III,PEGS2012,Introduction to Geology,3,Atul Kumar Patidar,SOAE-003,SOAE_10.04.2025_E_PEGS2012_5001_BTech_Eng_APEU_Atul Kumar Patidar_3,SOAE,APATIDAR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,III,MECH2031,Engineering Mechanics,4,Piyush Gaur,SOAE-004,SOAE_10.04.2025_E_MECH2031_5001_BTech_Eng_ASE_Piyush Gaur_4,SOAE,piyush.gaur@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_ASE,VII,ASEG4011P,Rocket propulsion,3,Harshit Shukla,SOAE-005,SOAE_10.04.2025_E_ASEG4011P_5001_BTech_Eng_ASE_Harshit Shukla_3,SOAE,HARSHIT.SHUKLA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_CHGE,III,MECH2032,Engineering Mechanics,3,Subhankar Das,SOAE-006,SOAE_10.04.2025_E_MECH2032_5001_BTech_Eng_CHGE_Subhankar Das_3,SOAE,subhankar.das@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_Civil_,VII,CIVL4067,Hydrology & Water Resources Engineering,1,Rahul Silori,SOAE-007,SOAE_10.04.2025_E_CIVL4067_5001_BTech_Eng_Civil__Rahul Silori_1,SOAE,RSILORI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_EL,III,EPEG2010,Electrical Machines I,1,Harshit Mohan,SOAE-008,SOAE_10.04.2025_E_EPEG2010_5001_BTech_Eng_EL_Harshit Mohan_1,SOAE,harshit.mohan@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_Mech,VII,MECH4049,Reverse Engineering,1,Prashant Shukla,SOAE-009,SOAE_10.04.2025_E_MECH4049_5001_BTech_Eng_Mech_Prashant Shukla_1,SOAE,prashant.shukla@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,I,PEGS1002,Mineral Science,2,Nirlipta Priyadarshini Nayak,SOAE-010,SOAE_10.04.2025_M_PEGS1002_5001_BSc_H_Geo_Nirlipta Priyadarshini Nayak_2,SOAE,NPNAYAK@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Math,I,PHYS1016,Electricity and Magnetism,1,Shalendra Kumar,SOAE-011,SOAE_10.04.2025_M_PHYS1016_5001_BSc_Math_Shalendra Kumar_1,SOAE,shalendra.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Phy,V,PHYS3020,Electromagnetic Theory,4,Raju Roychowdhury,SOAE-012,SOAE_10.04.2025_M_PHYS3020_5001_BSc_Phy_Raju Roychowdhury_4,SOAE,raju.roychowdhury@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_ADE,I,MECH1005,Engineering Graphics,1,Donga Ramesh Kumar,SOAE-013,SOAE_10.04.2025_M_MECH1005_5001_BTech_Eng_ADE_Donga Ramesh Kumar_1,SOAE,RKDONGA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,V,PEAU3022,Reservoir surveillance and management,3, Pushpa Sharma,SOAE-014,SOAE_10.04.2025_M_PEAU3022_5001_BTech_Eng_APEU_ Pushpa Sharma_3,SOAE,pushpa.sharma@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_APGE,I,MECH1005,Engineering Graphics,1,Donga Ramesh Kumar,SOAE-015,SOAE_10.04.2025_M_MECH1005_5001_BTech_Eng_APGE_Donga Ramesh Kumar_1,SOAE,RKDONGA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,V,ASEG3018,Aircraft Structure I,9,Saurabh Kumar Bharti,SOAE-016,SOAE_10.04.2025_M_ASEG3018_5001_BTech_Eng_ASE_Saurabh Kumar Bharti_9,SOAE,saurabhk.bharti@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_CHGE,V,CHCE3030,Particle and Fluid Particle Processing,2,Seim Timung,SOAE-017,SOAE_10.04.2025_M_CHCE3030_5001_BTech_Eng_CHGE_Seim Timung_2,SOAE,STIMUNG@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_CHGE,V,CHCE3044,Petrochemical Processing Technology,1,G. Gopalakrishnan,SOAE-018,SOAE_10.04.2025_M_CHCE3044_5001_BTech_Eng_CHGE_G. Gopalakrishnan_1,SOAE,GOPALAKRISHNAN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Civil_,I,MECH1005,Engineering Graphics,1,Donga Ramesh Kumar,SOAE-019,SOAE_10.04.2025_M_MECH1005_5001_BTech_Eng_Civil__Donga Ramesh Kumar_1,SOAE,RKDONGA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Mech,V,MECH3001,Design of Machine Elements,1,Prashant Shukla,SOAE-020,SOAE_10.04.2025_M_MECH3001_5001_BTech_Eng_Mech_Prashant Shukla_1,SOAE,prashant.shukla@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_MehE,V,MECH3024,Design of Machine Elements,2,Prashant Shukla,SOAE-021,SOAE_10.04.2025_M_MECH3024_5001_BTech_Eng_MehE_Prashant Shukla_2,SOAE,prashant.shukla@ddn.upes.ac.in
+04-04-2025,M,5003,BSc_Phy,VI,PHYS3020,Electromagnetic Theory,1,Raju Roychowdhury,SOAE-022,SOAE_10.04.2025_M_PHYS3020_5003_BSc_Phy_Raju Roychowdhury_1,SOAE,raju.roychowdhury@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_Eng_FSE,V,HSFS3035,Safety and Risk Engineering,1,Surendar Varadharajan,SOAE-023,SOAE_10.04.2025_M_HSFS3035_5003_BTech_Eng_FSE_Surendar Varadharajan_1,SOAE,V.SURENDAR@DDN.UPES.AC.IN
+04-04-2025,M,5003,IntBSc_Phy,VI,PHYS3020,Electromagnetic Theory,1,Raju Roychowdhury,SOAE-024,SOAE_10.04.2025_M_PHYS3020_5003_IntBSc_Phy_Raju Roychowdhury_1,SOAE,raju.roychowdhury@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_ADE,III,MECH2039,Auto Materials & Manufacturing processes,2,Subhankar Das,SOAE-025,SOAE_11.04.2025_E_MECH2039_5001_BTech_Eng_ADE_Subhankar Das_2,SOAE,subhankar.das@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APEU,VII,PEAU4025,Geomechanics,7,Harinandan Kumar,SOAE-026,SOAE_11.04.2025_E_PEAU4025_5001_BTech_Eng_APEU_Harinandan Kumar_7,SOAE,HKUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APGE,III,CHCE2025,Material and Energy Balance Computations,2,Kodavaty Jagadeeshwar,SOAE-027,SOAE_11.04.2025_E_CHCE2025_5001_BTech_Eng_APGE_Kodavaty Jagadeeshwar_2,SOAE,J.KODAVATY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,VI,ASEG3026P,Computational Fluid Dynamics,2,Kumar Gaurav,SOAE-028,SOAE_11.04.2025_E_ASEG3026P_5001_BTech_Eng_ASE_Kumar Gaurav_2,SOAE,KUMARG@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,VII,ASEG4005,Computational Fluid Dynamics,7,Kumar Gaurav,SOAE-029,SOAE_11.04.2025_E_ASEG4005_5001_BTech_Eng_ASE_Kumar Gaurav_7,SOAE,KUMARG@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_CHGE,III,CHCE2013,Material and Energy Balance Computations,4,Kodavaty Jagadeeshwar,SOAE-030,SOAE_11.04.2025_E_CHCE2013_5001_BTech_Eng_CHGE_Kodavaty Jagadeeshwar_4,SOAE,J.KODAVATY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_Civil_,VII,CIVL4014,Earthquake Engineering and Seismic Design of Structures,2,Saswati Datta,SOAE-031,SOAE_11.04.2025_E_CIVL4014_5001_BTech_Eng_Civil__Saswati Datta_2,SOAE,saswati.datta@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_Eng_APEU,VII,PEAU4019P,Well Servicing & Workover Operation,1,Sunil Kumar Khare,SOAE-032,SOAE_11.04.2025_E_PEAU4019P_5003_BTech_Eng_APEU_Sunil Kumar Khare_1,SOAE,SKHARE@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_APEU,VII,PEAU4025,Geomechanics,1,Harinandan Kumar,SOAE-033,SOAE_11.04.2025_E_PEAU4025_5003_BTech_Eng_APEU_Harinandan Kumar_1,SOAE,HKUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APGE,IV,CHCE2023,Heat Transfer,1,Murali Pujari,SOAE-034,SOAE_11.04.2025_M_CHCE2023_5001_BTech_Eng_APGE_Murali Pujari_1,SOAE,MPUJARI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Mech,V,MECH3035,Heat Transfer,3,Ram Kunwer,SOAE-035,SOAE_11.04.2025_M_MECH3035_5001_BTech_Eng_Mech_Ram Kunwer_3,SOAE,RKUNWER@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_MehE,V,MECH3046,Advanced Robotics,1,Ankit Nayak,SOAE-036,SOAE_11.04.2025_M_MECH3046_5001_BTech_Eng_MehE_Ankit Nayak_1,SOAE,Ankit.Nayak@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APEU,VI,PEAU3019,Advanced Production Engineering,5,Vamsi Krishna Kudapa,SOAE-037,SOAE_14.04.2025_E_PEAU3019_5001_BTech_Eng_APEU_Vamsi Krishna Kudapa_5,SOAE,VKKUDAPA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APGE,VI,CHGS3028,Process Dynamics Instrumentation & Cont.,2,Kodavaty Jagadeeshwar,SOAE-038,SOAE_14.04.2025_E_CHGS3028_5001_BTech_Eng_APGE_Kodavaty Jagadeeshwar_2,SOAE,J.KODAVATY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,VI,ASEG3023,Flight stability and Control,6,Om Prakash,SOAE-039,SOAE_14.04.2025_E_ASEG3023_5001_BTech_Eng_ASE_Om Prakash_6,SOAE,OMPRAKASH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_CHGE,VI,CHCE3031,Chemical Reaction Engineering II,1,Nilanjana Banerjee,SOAE-040,SOAE_14.04.2025_E_CHCE3031_5001_BTech_Eng_CHGE_Nilanjana Banerjee_1,SOAE,NBANERJEE@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_CHGE,VI,CHCE3033,Process Control,1,Kodavaty Jagadeeshwar,SOAE-041,SOAE_14.04.2025_E_CHCE3033_5001_BTech_Eng_CHGE_Kodavaty Jagadeeshwar_1,SOAE,J.KODAVATY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_Civil,VI,CIVL3022,Transportation Engineering,1,Ankit Kumar Yadav,SOAE-042,SOAE_14.04.2025_E_CIVL3022_5001_BTech_Eng_Civil_Ankit Kumar Yadav_1,SOAE,ankitk.yadav@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_Civil,VI,CIVL3062,Design of Concrete Structures,1,Saumyaranjan Sahoo,SOAE-043,SOAE_14.04.2025_E_CIVL3062_5001_BTech_Eng_Civil_Saumyaranjan Sahoo_1,SOAE,saumyaranjan.sahoo@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_ECE,VI,ECEG3048,Control system Engineering,1,Surajit Mondal,SOAE-044,SOAE_14.04.2025_E_ECEG3048_5001_BTech_Eng_ECE_Surajit Mondal_1,SOAE,SMONDAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,II,CHEM1008G,"Chemical Energetics, E & F.G Org. Chem.I",1,Sanjeev Kumar,SOAE-045,SOAE_14.04.2025_M_CHEM1008G_5001_BSc_H_Geo_Sanjeev Kumar_1,SOAE,SKDUBEY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,IV,PEGS2041,Hydrogeology,1,Pankajkumar Srivastava,SOAE-046,SOAE_14.04.2025_M_PEGS2041_5001_BSc_H_Geo_Pankajkumar Srivastava_1,SOAE,PKSRIVASTAVA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,IV,PEGS2049,Remote Sensing and GIS,2,Ashish Aggarwal,SOAE-047,SOAE_14.04.2025_M_PEGS2049_5001_BSc_H_Geo_Ashish Aggarwal_2,SOAE,AAGGARWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Math,II,MATH1046,Integral calculus,1,Tanuj Kumar,SOAE-048,SOAE_14.04.2025_M_MATH1046_5001_BSc_Math_Tanuj Kumar_1,SOAE,tanuj.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Math,II,MATH1047,Linear algebra,1,Reshu Gupta,SOAE-049,SOAE_14.04.2025_M_MATH1047_5001_BSc_Math_Reshu Gupta_1,SOAE,RGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Phy,IV,PHYS2027,Mathematical Physics III,2,Raju Roychowdhury,SOAE-050,SOAE_14.04.2025_M_PHYS2027_5001_BSc_Phy_Raju Roychowdhury_2,SOAE,raju.roychowdhury@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_ADE,II,CSEG1008,Object Oriented Programming,1,Amar Jindal,SOAE-051,SOAE_14.04.2025_M_CSEG1008_5001_BTech_Eng_ADE_Amar Jindal_1,SOAE,amar.jindal@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_ADE,II,MATH1027,Mathematics II,2,Akmal Husain,SOAE-052,SOAE_14.04.2025_M_MATH1027_5001_BTech_Eng_ADE_Akmal Husain_2,SOAE,AHUSAIN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ADE,IV,ECEG2039,Automotive Electrical and Electronics,2,Harshit Mohan,SOAE-053,SOAE_14.04.2025_M_ECEG2039_5001_BTech_Eng_ADE_Harshit Mohan_2,SOAE,harshit.mohan@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_APEU,II,MATH1027,Mathematics II,2,Akmal Husain,SOAE-054,SOAE_14.04.2025_M_MATH1027_5001_BTech_Eng_APEU_Akmal Husain_2,SOAE,AHUSAIN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,IV,PEAU2007,Transport Phenomena in Geosystems,1,Tirumala Rao Kotni,SOAE-055,SOAE_14.04.2025_M_PEAU2007_5001_BTech_Eng_APEU_Tirumala Rao Kotni_1,SOAE,TIRUMALA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APGE,IV,CHCE2022,Mass Transfer,2,Murali Pujari,SOAE-056,SOAE_14.04.2025_M_CHCE2022_5001_BTech_Eng_APGE_Murali Pujari_2,SOAE,MPUJARI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,IV,ASEG2008,Aircraft Material & Manufacturing Tech,2,Ram Kunwer,SOAE-057,SOAE_14.04.2025_M_ASEG2008_5001_BTech_Eng_ASE_Ram Kunwer_2,SOAE,RKUNWER@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_CHGE,II,CSEG1008,Object Oriented Programming,2,Amar Jindal,SOAE-058,SOAE_14.04.2025_M_CSEG1008_5001_BTech_Eng_CHGE_Amar Jindal_2,SOAE,amar.jindal@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_RSEE,II,MATH1027,Mathematics II,1,Akmal Husain,SOAE-059,SOAE_14.04.2025_M_MATH1027_5001_BTech_Eng_RSEE_Akmal Husain_1,SOAE,AHUSAIN@DDN.UPES.AC.IN
+04-04-2025,M,5001,MSc_Chem,II,CHEM7054,Chemistry of Advanced Organic Compounds,1,Shailey Singhal,SOAE-060,SOAE_14.04.2025_M_CHEM7054_5001_MSc_Chem_Shailey Singhal_1,SOAE,SHAILEY@DDN.UPES.AC.IN
+04-04-2025,M,5001,MTech_Eng_Emob,II,MEEM7011,Modelling and Simulation,1,Harshit Mohan,SOAE-061,SOAE_14.04.2025_M_MEEM7011_5001_MTech_Eng_Emob_Harshit Mohan_1,SOAE,harshit.mohan@ddn.upes.ac.in
+04-04-2025,M,5001,MTech_Eng_HSE,II,HSFS7011,Hazard Identific. Risk Analysis & Mgmt.,1,Syed Mohammad Tauseef,SOAE-062,SOAE_14.04.2025_M_HSFS7011_5001_MTech_Eng_HSE_Syed Mohammad Tauseef_1,SOAE,SMTAUSEEF@DDN.UPES.AC.IN
+04-04-2025,M,5001,MTech_Eng_PEng,II,PEAU7009,Enhanced Oil Recovery Techniques,2,Gaurav Pandey,SOAE-063,SOAE_14.04.2025_M_PEAU7009_5001_MTech_Eng_PEng_Gaurav Pandey_2,SOAE,GAURAV.PANDEY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APEU,VI,PEAU3032,Well Testing and Well Stimulation,2,Srinivasa Devarapu Reddy,SOAE-064,SOAE_15.04.2025_E_PEAU3032_5001_BTech_Eng_APEU_Srinivasa Devarapu Reddy_2,SOAE,SR.DEVARAPU@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APGE,VI,PEAU3004,Production Engineering II,2,Ajay Mittal,SOAE-065,SOAE_15.04.2025_E_PEAU3004_5001_BTech_Eng_APGE_Ajay Mittal_2,SOAE,AJAY.MITTAL@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,VI,AVEG3004,Introduction to Avionics,2,Mahadeeswara Yadav,SOAE-066,SOAE_15.04.2025_E_AVEG3004_5001_BTech_Eng_ASE_Mahadeeswara Yadav_2,SOAE,mahadeeswara.yadav@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_CHGE,VI,CHCE3043,Process Equipment Design and Economics,1,Manash Protim Mudoi,SOAE-067,SOAE_15.04.2025_E_CHCE3043_5001_BTech_Eng_CHGE_Manash Protim Mudoi_1,SOAE,MPMUDOI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_Civil,VI,CIVL3069,Advanced Foundation Design,1,Saswati Datta,SOAE-068,SOAE_15.04.2025_E_CIVL3069_5001_BTech_Eng_Civil_Saswati Datta_1,SOAE,saswati.datta@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_FSE,VI,HSFS3036,Advanced Safety and Risk Engineering,1,Surendar Varadharajan,SOAE-069,SOAE_15.04.2025_E_HSFS3036_5001_BTech_Eng_FSE_Surendar Varadharajan_1,SOAE,V.SURENDAR@DDN.UPES.AC.IN
+04-04-2025,E,5001,IntBSc_Math,VI,MATH3050,Theory of Partial differential equations,1,Ravi Kiran Maddali,SOAE-070,SOAE_15.04.2025_E_MATH3050_5001_IntBSc_Math_Ravi Kiran Maddali_1,SOAE,RAVIKIRAN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Chem,II,PHYS1019G,Solid State Physics,1,Samar Layek,SOAE-071,SOAE_15.04.2025_M_PHYS1019G_5001_BSc_Chem_Samar Layek_1,SOAE,samar.layek@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,II,PEGS1010,Igneous Petrology,1,Sunil Kumar Khare,SOAE-072,SOAE_15.04.2025_M_PEGS1010_5001_BSc_H_Geo_Sunil Kumar Khare_1,SOAE,SKHARE@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,IV,PEGS2030,principles and Indian Stratigraphy,1,Girish Chandra Kothyari,SOAE-073,SOAE_15.04.2025_M_PEGS2030_5001_BSc_H_Geo_Girish Chandra Kothyari_1,SOAE,girishc.kothyari@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,IV,PEGS2040,Stratigraphic Principles & Indian Strat.,1,Girish Chandra Kothyari,SOAE-074,SOAE_15.04.2025_M_PEGS2040_5001_BSc_H_Geo_Girish Chandra Kothyari_1,SOAE,girishc.kothyari@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Phy,IV,PHYS2028,Statistical Mechanics,3,Ratnesh Kumar Pandey,SOAE-075,SOAE_15.04.2025_M_PHYS2028_5001_BSc_Phy_Ratnesh Kumar Pandey_3,SOAE,RPANDEY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ADE,IV,MEAD2007,Internal Combustion engines,3,Rajesh Maithani,SOAE-076,SOAE_15.04.2025_M_MEAD2007_5001_BTech_Eng_ADE_Rajesh Maithani_3,SOAE,RMAITHANI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,IV,PEAU2008,Drilling Engineering & Well Construction,1,Gaurav Pandey,SOAE-077,SOAE_15.04.2025_M_PEAU2008_5001_BTech_Eng_APEU_Gaurav Pandey_1,SOAE,GAURAV.PANDEY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,IV,PEAU2012,Drilling Engineering & Well Construction,1,Gaurav Pandey,SOAE-078,SOAE_15.04.2025_M_PEAU2012_5001_BTech_Eng_APEU_Gaurav Pandey_1,SOAE,GAURAV.PANDEY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,IV,ASEG2009,Fundamental of Aircraft Propulsion,1,Ramesh Kumar,SOAE-079,SOAE_15.04.2025_M_ASEG2009_5001_BTech_Eng_ASE_Ramesh Kumar_1,SOAE,RAMESH.KUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,IV,ASEG2010,Aircraft System and Instrument,1,Harshit Shukla,SOAE-080,SOAE_15.04.2025_M_ASEG2010_5001_BTech_Eng_ASE_Harshit Shukla_1,SOAE,HARSHIT.SHUKLA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_MehE,IV,ECEG2030,Analog & Digital Electronics,1,Rupendra Kumar Pachauri,SOAE-081,SOAE_15.04.2025_M_ECEG2030_5001_BTech_Eng_MehE_Rupendra Kumar Pachauri_1,SOAE,RPACHAURI@DDN.UPES.AC.IN
+04-04-2025,M,5001,MTech_Eng_HSE,II,HSFS7031,Plant Layout and Material Handling,1,Dharmendra Kumar Gupta,SOAE-082,SOAE_15.04.2025_M_HSFS7031_5001_MTech_Eng_HSE_Dharmendra Kumar Gupta_1,SOAE,DKGUPTA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ADE,VI,MEAD3011,Automotive Sub-System Design,1,Piyush Gaur,SOAE-083,SOAE_16.04.2025_E_MEAD3011_5001_BTech_Eng_ADE_Piyush Gaur_1,SOAE,piyush.gaur@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_ASE,VI,ASEG3029,Machine Design for Aerospace,7,Ramesh Kumar,SOAE-084,SOAE_16.04.2025_E_ASEG3029_5001_BTech_Eng_ASE_Ramesh Kumar_7,SOAE,RAMESH.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_CHGE,VI,CHCE3007,"Process Dynamics, Instrument. & Control",6,Kodavaty Jagadeeshwar,SOAE-085,SOAE_16.04.2025_E_CHCE3007_5001_BTech_Eng_CHGE_Kodavaty Jagadeeshwar_6,SOAE,J.KODAVATY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Chem,IV,PHYS2012G,Nuclear and Particle Physics,1,Devendra Pal Singh,SOAE-086,SOAE_16.04.2025_M_PHYS2012G_5001_BSc_Chem_Devendra Pal Singh_1,SOAE,DEVENDRAPAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,IV,PHYS2012G,Nuclear and Particle Physics,1,Devendra Pal Singh,SOAE-087,SOAE_16.04.2025_M_PHYS2012G_5001_BSc_H_Geo_Devendra Pal Singh_1,SOAE,DEVENDRAPAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Phy,IV,MATH2017G,Numerical Methods,1,Susmay Nandi,SOAE-088,SOAE_16.04.2025_M_MATH2017G_5001_BSc_Phy_Susmay Nandi_1,SOAE,susmay.nandi@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_ADE,II,ECEG1004,Basic Electrical & Electronics Engg.,1,Yogesh Chandra Gupta,SOAE-089,SOAE_16.04.2025_M_ECEG1004_5001_BTech_Eng_ADE_Yogesh Chandra Gupta_1,SOAE,YCGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ADE,IV,MEAD2008,Mechanics of vehicle and Machines,3,Saurabh Kumar Bharti,SOAE-090,SOAE_16.04.2025_M_MEAD2008_5001_BTech_Eng_ADE_Saurabh Kumar Bharti_3,SOAE,saurabhk.bharti@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_APEU,I,ECEG1004,Basic Electrical & Electronics Engg.,1,Yogesh Chandra Gupta,SOAE-091,SOAE_16.04.2025_M_ECEG1004_5001_BTech_Eng_APEU_Yogesh Chandra Gupta_1,SOAE,YCGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APGE,II,ECEG1004,Basic Electrical & Electronics Engg.,1,Yogesh Chandra Gupta,SOAE-092,SOAE_16.04.2025_M_ECEG1004_5001_BTech_Eng_APGE_Yogesh Chandra Gupta_1,SOAE,YCGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_CHGE,IV,CHCE2020,Mass Transfer I,1,Murali Pujari,SOAE-093,SOAE_16.04.2025_M_CHCE2020_5001_BTech_Eng_CHGE_Murali Pujari_1,SOAE,MPUJARI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_EL,IV,ECEG2031,Control Systems,1,Devender Kumar Saini,SOAE-094,SOAE_16.04.2025_M_ECEG2031_5001_BTech_Eng_EL_Devender Kumar Saini_1,SOAE,DKSAINI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_MehE,IV,ECEG2041,Instrumentation & Control,1,Yogesh Chandra Gupta,SOAE-095,SOAE_16.04.2025_M_ECEG2041_5001_BTech_Eng_MehE_Yogesh Chandra Gupta_1,SOAE,YCGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MTech_Eng_HSE,II,HSFS7032,Leadership in Safety,1,Sanjay Bhutani,SOAE-096,SOAE_16.04.2025_M_HSFS7032_5001_MTech_Eng_HSE_Sanjay Bhutani_1,SOAE,sanjay.bhutani@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APEU,VI,PEAU3020,Formation Evaluation & Well Logging,6,Uday Bhan,SOAE-097,SOAE_17.04.2025_E_PEAU3020_5001_BTech_Eng_APEU_Uday Bhan_6,SOAE,UBHAN@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APEU,VI,PEAU3038,Reservoir Engineering II,1, Pushpa Sharma,SOAE-098,SOAE_17.04.2025_E_PEAU3038_5001_BTech_Eng_APEU_ Pushpa Sharma_1,SOAE,pushpa.sharma@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APGE,V,PEAU3005,Reservoir Engineering II,1,Vamsi Krishna Kudapa,SOAE-099,SOAE_17.04.2025_E_PEAU3005_5001_BTech_Eng_APGE_Vamsi Krishna Kudapa_1,SOAE,VKKUDAPA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,VI,ASEG3021,Aircraft Structure II,1,Saurabh Kumar Bharti,SOAE-100,SOAE_17.04.2025_E_ASEG3021_5001_BTech_Eng_ASE_Saurabh Kumar Bharti_1,SOAE,saurabhk.bharti@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,II,PEGS1005,Elements of Geochemistry,1,Nirlipta Priyadarshini Nayak,SOAE-101,SOAE_17.04.2025_M_PEGS1005_5001_BSc_H_Geo_Nirlipta Priyadarshini Nayak_1,SOAE,NPNAYAK@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,II,PEGS1011,Sedimentary Petrology,1,Uday Bhan,SOAE-102,SOAE_17.04.2025_M_PEGS1011_5001_BSc_H_Geo_Uday Bhan_1,SOAE,UBHAN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,III,PEGS2036,Elements of Geochemistry,1,Sunil Kumar Khare,SOAE-103,SOAE_17.04.2025_M_PEGS2036_5001_BSc_H_Geo_Sunil Kumar Khare_1,SOAE,SKHARE@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,IV,CHEM1010G,"Chemistry of s&p blk elmnt,State of M&CK",1,Sapna Jain,SOAE-104,SOAE_17.04.2025_M_CHEM1010G_5001_BSc_H_Geo_Sapna Jain_1,SOAE,SJAIN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ADE,IV,MECH2018,Strength of Materials,3,Jitendra Yadav,SOAE-105,SOAE_17.04.2025_M_MECH2018_5001_BTech_Eng_ADE_Jitendra Yadav_3,SOAE,JYADAV@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,IV,MECH2012,Strength of Materials,4,Subhankar Das,SOAE-106,SOAE_17.04.2025_M_MECH2012_5001_BTech_Eng_ASE_Subhankar Das_4,SOAE,subhankar.das@ddn.upes.ac.in
+04-04-2025,M,5001,MTech_Eng_HSE,II,HSFS7033,Construction Safety and Management,1,Bikarama Prasad Yadav,SOAE-107,SOAE_17.04.2025_M_HSFS7033_5001_MTech_Eng_HSE_Bikarama Prasad Yadav_1,SOAE,BPYADAV@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_Chem,III,CHEM2020,Inorganic Chemistry II,1,Ritesh Dubey,SOAE-108,SOAE_7.04.2025_E_CHEM2020_5001_BSc_Chem_Ritesh Dubey_1,SOAE,ritesh.dubey@ddn.upes.ac.in
+04-04-2025,E,5001,BSc_H_Geo,III,CHEM1009G,Sol Ph Eqlb Con. E&FG Org. Chemistry II,1,Shailey Singhal,SOAE-109,SOAE_7.04.2025_E_CHEM1009G_5001_BSc_H_Geo_Shailey Singhal_1,SOAE,SHAILEY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_Math,III,MATH2048,Ordinary Differential Equations,1,Akmal Husain,SOAE-110,SOAE_7.04.2025_E_MATH2048_5001_BSc_Math_Akmal Husain_1,SOAE,AHUSAIN@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_Phy,III,MATH1034G,Differential Equations,1,Rashmi Dubey,SOAE-111,SOAE_7.04.2025_E_MATH1034G_5001_BSc_Phy_Rashmi Dubey_1,SOAE,rashmi.dubey@ddn.upes.ac.in
+04-04-2025,E,5001,BSc_Phy,III,PHYS2021K,Weather Forecasting,3,Amit Awasthi,SOAE-112,SOAE_7.04.2025_E_PHYS2021K_5001_BSc_Phy_Amit Awasthi_3,SOAE,AAWASTHI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ADE,III,MEAD2004,Components of Automotive Chassis,1,Piyush Gaur,SOAE-113,SOAE_7.04.2025_E_MEAD2004_5001_BTech_Eng_ADE_Piyush Gaur_1,SOAE,piyush.gaur@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APEU,III,MEPD2007,Thermodynamics & Phase Behavior,3,Murali Pujari,SOAE-114,SOAE_7.04.2025_E_MEPD2007_5001_BTech_Eng_APEU_Murali Pujari_3,SOAE,MPUJARI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APGE,III,CHCE2003,Momentum Transfer,1,Amitkumar Thakur,SOAE-115,SOAE_7.04.2025_E_CHCE2003_5001_BTech_Eng_APGE_Amitkumar Thakur_1,SOAE,AKTHAKUR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,III,MECH2022,Thermodynamics and Heat Transfer,1,Velidi V S S Gurunadh,SOAE-116,SOAE_7.04.2025_E_MECH2022_5001_BTech_Eng_ASE_Velidi V S S Gurunadh_1,SOAE,GVSSVELIDI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_CHGE,III,CHCE2003,Momentum Transfer,1,Amitkumar Thakur,SOAE-117,SOAE_7.04.2025_E_CHCE2003_5001_BTech_Eng_CHGE_Amitkumar Thakur_1,SOAE,AKTHAKUR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_EL,III,ECEG2027,Analog Electronics,1,Rupendra Kumar Pachauri,SOAE-118,SOAE_7.04.2025_E_ECEG2027_5001_BTech_Eng_EL_Rupendra Kumar Pachauri_1,SOAE,RPACHAURI@DDN.UPES.AC.IN
+04-04-2025,E,5001,MSc_Phy,III,MATH8023P,Mathematical & Statistical Methods,1,Prashant Shambhudayal Rawat,SOAE-119,SOAE_7.04.2025_E_MATH8023P_5001_MSc_Phy_Prashant Shambhudayal Rawat_1,SOAE,PSRAWAT@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_CHGE,VII,CHCE3046P,Specialty Chemicals,1,Manash Protim Mudoi,SOAE-120,SOAE_7.04.2025_E_CHCE3046P_5003_BTech_Eng_CHGE_Manash Protim Mudoi_1,SOAE,MPMUDOI@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_FSE,VII,HSFS4005,Fire Engineering IV (Risk Assessment & Planning),1,Bikarama Prasad Yadav,SOAE-121,SOAE_7.04.2025_E_HSFS4005_5003_BTech_Eng_FSE_Bikarama Prasad Yadav_1,SOAE,BPYADAV@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_MehE,VII,MEPD4014,Automation in Manufacturing,1,Naveen Kumar,SOAE-122,SOAE_7.04.2025_E_MEPD4014_5003_BTech_Eng_MehE_Naveen Kumar_1,SOAE,naveen.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,V,PEGS3027,Geomorphology,2,Atul Kumar Patidar,SOAE-123,SOAE_7.04.2025_M_PEGS3027_5001_BSc_H_Geo_Atul Kumar Patidar_2,SOAE,APATIDAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Math,I,MATH1040,Algebra,1,Rashmi Dubey,SOAE-124,SOAE_7.04.2025_M_MATH1040_5001_BSc_Math_Rashmi Dubey_1,SOAE,rashmi.dubey@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Math,V,MATH3032,Linear and Non Linear Programming,1,Amit Kumar,SOAE-125,SOAE_7.04.2025_M_MATH3032_5001_BSc_Math_Amit Kumar_1,SOAE,amit.k@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Math,V,MATH3041P,Finite Element Methods,2,Anupam Bhandari,SOAE-126,SOAE_7.04.2025_M_MATH3041P_5001_BSc_Math_Anupam Bhandari_2,SOAE,ABHANDARI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APGE,V,CHGS3029,Design of CGD Network,1,Bhalchandra Shingan,SOAE-127,SOAE_7.04.2025_M_CHGS3029_5001_BTech_Eng_APGE_Bhalchandra Shingan_1,SOAE,BSHINGAN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,V,ASEG3011,Aerodynamics II,2,Dhiraj Kumar,SOAE-128,SOAE_7.04.2025_M_ASEG3011_5001_BTech_Eng_ASE_Dhiraj Kumar_2,SOAE,dhiraj.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_ASE,V,ASEG3019,Flight Mechanics I,1,Om Prakash,SOAE-129,SOAE_7.04.2025_M_ASEG3019_5001_BTech_Eng_ASE_Om Prakash_1,SOAE,OMPRAKASH@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Civil,V,CIVL3060,Hydraulic Engineering,1,Ankit Kumar Yadav,SOAE-130,SOAE_7.04.2025_M_CIVL3060_5001_BTech_Eng_Civil_Ankit Kumar Yadav_1,SOAE,ankitk.yadav@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_Civil_,I,CHEM1011,Chemistry I,1,Mamta Latwal,SOAE-131,SOAE_7.04.2025_M_CHEM1011_5001_BTech_Eng_Civil__Mamta Latwal_1,SOAE,MLATWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Mech,V,MEPD3004,Industrial Engineering,1,Geetanjali Raghav,SOAE-132,SOAE_7.04.2025_M_MEPD3004_5001_BTech_Eng_Mech_Geetanjali Raghav_1,SOAE,GRAGHAV@DDN.UPES.AC.IN
+04-04-2025,M,5001,MTech_Eng_Emob,I,MEEM7003,Vehicle Dynamics,1,Jitendra Yadav,SOAE-133,SOAE_7.04.2025_M_MEEM7003_5001_MTech_Eng_Emob_Jitendra Yadav_1,SOAE,JYADAV@DDN.UPES.AC.IN
+04-04-2025,M,5003,BSc_Phy,V,PHYS3019,Quantum Mechanics and Application,2,Kanak Pal Singh Parmar,SOAE-134,SOAE_7.04.2025_M_PHYS3019_5003_BSc_Phy_Kanak Pal Singh Parmar_2,SOAE,KPSPARMAR@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_Eng_CHGE,V,CHCE3020,Process Optimization,3,Kodavaty Jagadeeshwar,SOAE-135,SOAE_7.04.2025_M_CHCE3020_5003_BTech_Eng_CHGE_Kodavaty Jagadeeshwar_3,SOAE,J.KODAVATY@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_Eng_EL,V,ECEG3031,Power Electronics,1,Vibhu Jately,SOAE-136,SOAE_7.04.2025_M_ECEG3031_5003_BTech_Eng_EL_Vibhu Jately_1,SOAE,vibhu.jately@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_Eng_EL,V,EPEG3010,Power System I,1,Devender Kumar Saini,SOAE-137,SOAE_7.04.2025_M_EPEG3010_5003_BTech_Eng_EL_Devender Kumar Saini_1,SOAE,DKSAINI@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_Eng_FSE,V,HSFS3002,Principles of Engineering Design,1,Dharmendra Kumar Gupta,SOAE-138,SOAE_7.04.2025_M_HSFS3002_5003_BTech_Eng_FSE_Dharmendra Kumar Gupta_1,SOAE,DKGUPTA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_Chem,III,PHYS2009G,Elements of Modern Physics,1,Nippani Satya Krishna,SOAE-139,SOAE_8.04.2025_E_PHYS2009G_5001_BSc_Chem_Nippani Satya Krishna_1,SOAE,NSATYAKRISHNA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_Math,III,MATH2049,Complex analysis,1,Nitin Uniyal,SOAE-140,SOAE_8.04.2025_E_MATH2049_5001_BSc_Math_Nitin Uniyal_1,SOAE,NUNIYAL@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_Phy,III,PHYS2014K,Computational Physics,1,Vipin Gaur,SOAE-141,SOAE_8.04.2025_E_PHYS2014K_5001_BSc_Phy_Vipin Gaur_1,SOAE,vipin.gaur@ddn.upes.ac.in
+04-04-2025,E,5001,BSc_Phy,III,PHYS2026,Elements of Modern Physics,4,Nippani Satya Krishna,SOAE-142,SOAE_8.04.2025_E_PHYS2026_5001_BSc_Phy_Nippani Satya Krishna_4,SOAE,NSATYAKRISHNA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ADE,III,MECH2023,Fluid mechanics,6,Ram Krishna Sha,SOAE-143,SOAE_8.04.2025_E_MECH2023_5001_BTech_Eng_ADE_Ram Krishna Sha_6,SOAE,ramk.sha@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APEU,III,PEAU2006,Mechanics of Drilling Engineering,2,Gaurav Pandey,SOAE-144,SOAE_8.04.2025_E_PEAU2006_5001_BTech_Eng_APEU_Gaurav Pandey_2,SOAE,GAURAV.PANDEY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APEU,III,PEGS2035,Geol. & Geophy. methods of Exploration,1,Sambit Prasanajit Naik,SOAE-145,SOAE_8.04.2025_E_PEGS2035_5001_BTech_Eng_APEU_Sambit Prasanajit Naik_1,SOAE,sambit.naik@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_ASE,III,MATH2044,Mathematics III (Numerical Methods),2,Monalisa Anand,SOAE-146,SOAE_8.04.2025_E_MATH2044_5001_BTech_Eng_ASE_Monalisa Anand_2,SOAE,monalisa.anand@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_CHGE,III,CHCE2012,Thermodynamics I,1,Amitkumar Thakur,SOAE-147,SOAE_8.04.2025_E_CHCE2012_5001_BTech_Eng_CHGE_Amitkumar Thakur_1,SOAE,AKTHAKUR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_Civil_,III,MATH2045,Mathematics III,1,Monalisa Anand,SOAE-148,SOAE_8.04.2025_E_MATH2045_5001_BTech_Eng_Civil__Monalisa Anand_1,SOAE,monalisa.anand@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_EL,III,MATH2046,Mathematics–III(Probability &Statistics),2,Priya Kumari Singh,SOAE-149,SOAE_8.04.2025_E_MATH2046_5001_BTech_Eng_EL_Priya Kumari Singh_2,SOAE,PriyaK.Singh@ddn.upes.ac.in
+04-04-2025,E,5001,MSc_Phy,III,PHYS8018,Condensed Matter Physics II,1,Samar Layek,SOAE-150,SOAE_8.04.2025_E_PHYS8018_5001_MSc_Phy_Samar Layek_1,SOAE,samar.layek@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_Eng_APEU,VII,PEAU4002,Reservoir Modelling and Simulation,1, Pushpa Sharma,SOAE-151,SOAE_8.04.2025_E_PEAU4002_5003_BTech_Eng_APEU_ Pushpa Sharma_1,SOAE,pushpa.sharma@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_Eng_APGE,VII,CHGS3007P,Pipeline Transportation of Oil & Gas,2,Bhalchandra Shingan,SOAE-152,SOAE_8.04.2025_E_CHGS3007P_5003_BTech_Eng_APGE_Bhalchandra Shingan_2,SOAE,BSHINGAN@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_ASE,VII,ASEG4018,Vibration and Aeroelasticity,5,Ramesh Kumar,SOAE-153,SOAE_8.04.2025_E_ASEG4018_5003_BTech_Eng_ASE_Ramesh Kumar_5,SOAE,RAMESH.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_Civil_,VII,CIVL4065,Construction Engineering & Management,1,Abhishek Prabir Banerjee,SOAE-154,SOAE_8.04.2025_E_CIVL4065_5003_BTech_Eng_Civil__Abhishek Prabir Banerjee_1,SOAE,abhishekp.banerjee@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_Eng_FSE,VII,HSFS4002,Hazard idntification and Computer Aided Risk Analysis,2,Surendar Varadharajan,SOAE-155,SOAE_8.04.2025_E_HSFS4002_5003_BTech_Eng_FSE_Surendar Varadharajan_2,SOAE,V.SURENDAR@DDN.UPES.AC.IN
+04-04-2025,E,5003,IntBSc_Phy,VII,PHYS4003,Introduction to Computational Physics,1,Nitesh Kumar,SOAE-156,SOAE_8.04.2025_E_PHYS4003_5003_IntBSc_Phy_Nitesh Kumar_1,SOAE,nitesh.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,I,MATH1029,Matrices,1,Ravi Kiran Maddali,SOAE-157,SOAE_8.04.2025_M_MATH1029_5001_BSc_H_Geo_Ravi Kiran Maddali_1,SOAE,RAVIKIRAN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_H_Geo,V,PEGS3053P,Geo-Spatial Data Analysis,1,Ashish Aggarwal,SOAE-158,SOAE_8.04.2025_M_PEGS3053P_5001_BSc_H_Geo_Ashish Aggarwal_1,SOAE,AAGGARWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Math,I,MATH1044,Differential Calculus,2,Anupam Bhandari,SOAE-159,SOAE_8.04.2025_M_MATH1044_5001_BSc_Math_Anupam Bhandari_2,SOAE,ABHANDARI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,V,PEAU3002,Reservoir Engineering I,1, Pushpa Sharma,SOAE-160,SOAE_8.04.2025_M_PEAU3002_5001_BTech_Eng_APEU_ Pushpa Sharma_1,SOAE,pushpa.sharma@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_APGE,IV,PEAU2010,Reservoir Engineering I,1,Vamsi Krishna Kudapa,SOAE-161,SOAE_8.04.2025_M_PEAU2010_5001_BTech_Eng_APGE_Vamsi Krishna Kudapa_1,SOAE,VKKUDAPA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,V,ASEG3022,Gas Dynamics and Jet Propulsion,5,Ramesh Kumar,SOAE-162,SOAE_8.04.2025_M_ASEG3022_5001_BTech_Eng_ASE_Ramesh Kumar_5,SOAE,RAMESH.KUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_CHGE,V,CHCE3004,Chemical Reaction Engineering I,2,Nilanjana Banerjee,SOAE-163,SOAE_8.04.2025_M_CHCE3004_5001_BTech_Eng_CHGE_Nilanjana Banerjee_2,SOAE,NBANERJEE@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_CHGE,V,CHCE3010,Petroleum Refining Technology ,1,Leena Kapoor,SOAE-164,SOAE_8.04.2025_M_CHCE3010_5001_BTech_Eng_CHGE_Leena Kapoor_1,SOAE,LKAPOOR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Civil_,I,MEPD1003,Workshop Practices,1,Siddharth Jain,SOAE-165,SOAE_8.04.2025_M_MEPD1003_5001_BTech_Eng_Civil__Siddharth Jain_1,SOAE,siddharth.jain@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_EL,V,EPEG3021,Industrial Measurement & Instrumentation,1,Yogesh Chandra Gupta,SOAE-166,SOAE_8.04.2025_M_EPEG3021_5001_BTech_Eng_EL_Yogesh Chandra Gupta_1,SOAE,YCGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_FSE,V,HSFS3026,Chemical Engineering II(Unit Operations),1,Dharmendra Kumar Gupta,SOAE-167,SOAE_8.04.2025_M_HSFS3026_5001_BTech_Eng_FSE_Dharmendra Kumar Gupta_1,SOAE,DKGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BSc_Phy,V,PHYS3021,Solid State Physics (PHYS3021_5),1,Amit Kumar Chawla,SOAE-168,SOAE_8.04.2025_M_PHYS3021_5003_BSc_Phy_Amit Kumar Chawla_1,SOAE,AKCHAWLA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_Eng_ADE,V,MEAD3001,Vehicle Dynamics,3,Jitendra Yadav,SOAE-169,SOAE_8.04.2025_M_MEAD3001_5003_BTech_Eng_ADE_Jitendra Yadav_3,SOAE,JYADAV@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_Eng_APEU,V,PEAU3002,Reservoir Engineering I,6, Pushpa Sharma,SOAE-170,SOAE_8.04.2025_M_PEAU3002_5003_BTech_Eng_APEU_ Pushpa Sharma_6,SOAE,pushpa.sharma@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_Eng_CHGE,VI,CHCE3010,Petroleum Refining Technology ,1,Leena Kapoor,SOAE-171,SOAE_8.04.2025_M_CHCE3010_5003_BTech_Eng_CHGE_Leena Kapoor_1,SOAE,LKAPOOR@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_Eng_Mech,V,MECH3031,Theory of Machines,3,Saurabh Kumar Bharti,SOAE-172,SOAE_8.04.2025_M_MECH3031_5003_BTech_Eng_Mech_Saurabh Kumar Bharti_3,SOAE,saurabhk.bharti@ddn.upes.ac.in
+04-04-2025,E,5001,BSc_Phy,III,PHYS2025,Analog Systems and Applications,2,Ratnesh Kumar Pandey,SOAE-173,SOAE_9.04.2025_E_PHYS2025_5001_BSc_Phy_Ratnesh Kumar Pandey_2,SOAE,RPANDEY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ADE,VII,MECH4039,"Noise, Vibration and Harshness (NVH)",4,Jitendra Yadav,SOAE-174,SOAE_9.04.2025_E_MECH4039_5001_BTech_Eng_ADE_Jitendra Yadav_4,SOAE,JYADAV@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APEU,III,PEAU2011,Introduction to Petroleum Operations,2,Ajay Mittal,SOAE-175,SOAE_9.04.2025_E_PEAU2011_5001_BTech_Eng_APEU_Ajay Mittal_2,SOAE,AJAY.MITTAL@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_APEU,VII,PEAU4017,Offshore Drilling & Prod. Operations,2,Himanshu Kesarwani,SOAE-176,SOAE_9.04.2025_E_PEAU4017_5001_BTech_Eng_APEU_Himanshu Kesarwani_2,SOAE,himanshu.kesarwani@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_APGE,III,MECH2001,Engineering Thermodynamics,1,Tirumala Rao Kotni,SOAE-177,SOAE_9.04.2025_E_MECH2001_5001_BTech_Eng_APGE_Tirumala Rao Kotni_1,SOAE,TIRUMALA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_ASE,VII,MECH4023,Finite Element Analysis,4,Ram Kunwer,SOAE-178,SOAE_9.04.2025_E_MECH4023_5001_BTech_Eng_ASE_Ram Kunwer_4,SOAE,RKUNWER@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_Civil_,VII,CIVL4066,"Engineering Economics, Estimation & Costing",1,Rahul Silori,SOAE-179,SOAE_9.04.2025_E_CIVL4066_5001_BTech_Eng_Civil__Rahul Silori_1,SOAE,RSILORI@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_EL,III,EPEG2009,Electrical Circuit Analysis,1,Vibhu Jately,SOAE-180,SOAE_9.04.2025_E_EPEG2009_5001_BTech_Eng_EL_Vibhu Jately_1,SOAE,vibhu.jately@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_Mech,III,MECH2040,Applied Machine Learning,2,Ram Kunwer,SOAE-181,SOAE_9.04.2025_E_MECH2040_5001_BTech_Eng_Mech_Ram Kunwer_2,SOAE,RKUNWER@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_Eng_MehE,III,EPEG2013,Electrical Machines,1,Harshit Mohan,SOAE-182,SOAE_9.04.2025_E_EPEG2013_5001_BTech_Eng_MehE_Harshit Mohan_1,SOAE,harshit.mohan@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_Eng_MehE,III,MEMA2001,Material Science,1,Ram Krishna Sha,SOAE-183,SOAE_9.04.2025_E_MEMA2001_5001_BTech_Eng_MehE_Ram Krishna Sha_1,SOAE,ramk.sha@ddn.upes.ac.in
+04-04-2025,E,5001,MSc_Phy,III,PHYS8088P,Radiative Processes in Astrophysics,1,Balendra Pratap Singh,SOAE-184,SOAE_9.04.2025_E_PHYS8088P_5001_MSc_Phy_Balendra Pratap Singh_1,SOAE,balendrap.singh@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_Eng_CHGE,VII,CHCE4017,Transport Phenomena,1,Tirumala Rao Kotni,SOAE-185,SOAE_9.04.2025_E_CHCE4017_5003_BTech_Eng_CHGE_Tirumala Rao Kotni_1,SOAE,TIRUMALA@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_FSE,VII,HSFS4026,"Water supply, Refugee Health and Sanitation in Emergency",1,Tabassum Abbasi,SOAE-186,SOAE_9.04.2025_E_HSFS4026_5003_BTech_Eng_FSE_Tabassum Abbasi_1,SOAE,TABBASI@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_Eng_Mech,VII,MECH4048,Smart Manufacturing,1,Naveen Kumar,SOAE-187,SOAE_9.04.2025_E_MECH4048_5003_BTech_Eng_Mech_Naveen Kumar_1,SOAE,naveen.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,V,MATH2021G,Cryptography and Network Security,1,Avishek Majumder,SOAE-188,SOAE_9.04.2025_M_MATH2021G_5001_BSc_H_Geo_Avishek Majumder_1,SOAE,avishek.majumder@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_H_Geo,V,PEGS3054P,Advances in Remote Sensing & Image Processing,2,Ashish Aggarwal,SOAE-189,SOAE_9.04.2025_M_PEGS3054P_5001_BSc_H_Geo_Ashish Aggarwal_2,SOAE,AAGGARWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Math,V,MATH3040P,Boolean Algebra and Automata Theory,1,Sandeep Dixit,SOAE-190,SOAE_9.04.2025_M_MATH3040P_5001_BSc_Math_Sandeep Dixit_1,SOAE,SDIXIT@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Phy,V,PHYS3022P,Fundamentals of Astrophysics,1,Balendra Pratap Singh,SOAE-191,SOAE_9.04.2025_M_PHYS3022P_5001_BSc_Phy_Balendra Pratap Singh_1,SOAE,balendrap.singh@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Phy,V,PHYS3029P,Monte Carlo Methods,2,Priya Kumari Singh,SOAE-192,SOAE_9.04.2025_M_PHYS3029P_5001_BSc_Phy_Priya Kumari Singh_2,SOAE,PriyaK.Singh@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_Eng_ADE,I,MATH1026,Mathematics I,1,Reshu Gupta,SOAE-193,SOAE_9.04.2025_M_MATH1026_5001_BTech_Eng_ADE_Reshu Gupta_1,SOAE,RGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ADE,V,MECH3042,Automotive Thermal Management System,4,Sachin Sharma,SOAE-194,SOAE_9.04.2025_M_MECH3042_5001_BTech_Eng_ADE_Sachin Sharma_4,SOAE,SACHIN.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,I,MATH1026,Mathematics I,1,Reshu Gupta,SOAE-195,SOAE_9.04.2025_M_MATH1026_5001_BTech_Eng_APEU_Reshu Gupta_1,SOAE,RGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APEU,V,PEAU3037,Production Engineering & well completion,2,Vamsi Krishna Kudapa,SOAE-196,SOAE_9.04.2025_M_PEAU3037_5001_BTech_Eng_APEU_Vamsi Krishna Kudapa_2,SOAE,VKKUDAPA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_APGE,I,MATH1026,Mathematics I,1,Reshu Gupta,SOAE-197,SOAE_9.04.2025_M_MATH1026_5001_BTech_Eng_APGE_Reshu Gupta_1,SOAE,RGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_ASE,V,ASEG3028,Flight Mechanics,2,Om Prakash,SOAE-198,SOAE_9.04.2025_M_ASEG3028_5001_BTech_Eng_ASE_Om Prakash_2,SOAE,OMPRAKASH@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_CHGE,V,CHCE3029,Mass Transfer II,2,Murali Pujari,SOAE-199,SOAE_9.04.2025_M_CHCE3029_5001_BTech_Eng_CHGE_Murali Pujari_2,SOAE,MPUJARI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_Civil_,I,MATH1026,Mathematics I,2,Reshu Gupta,SOAE-200,SOAE_9.04.2025_M_MATH1026_5001_BTech_Eng_Civil__Reshu Gupta_2,SOAE,RGUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_EL,V,EPEG3024,E- Cars Technology,1,Devender Kumar Saini,SOAE-201,SOAE_9.04.2025_M_EPEG3024_5001_BTech_Eng_EL_Devender Kumar Saini_1,SOAE,DKSAINI@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_FSE,V,HSFS3027,Fire Engg.III (Str.Fire Protection Des.),1,Bikarama Prasad Yadav,SOAE-202,SOAE_9.04.2025_M_HSFS3027_5001_BTech_Eng_FSE_Bikarama Prasad Yadav_1,SOAE,BPYADAV@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_MehE,V,ECEG3039,Embedded Systems,1,Sushabhan Choudhury,SOAE-203,SOAE_9.04.2025_M_ECEG3039_5001_BTech_Eng_MehE_Sushabhan Choudhury_1,SOAE,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_Eng_MehE,V,ECEG3039,Embedded Systems(5th),1,Sushabhan Choudhury,SOAE-204,SOAE_9.04.2025_M_ECEG3039_5001_BTech_Eng_MehE_Sushabhan Choudhury_1,SOAE,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,III,CSEG2020,Object Oriented Programming,6,Saurabh Jain,SOCS-001,SOCS_10.04.2025_E_CSEG2020_5001_BTech_CS_All_Saurabh Jain_6,SOCS,SAURABH.JAIN@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSEG3041P,Image Processing & Pattern Analysis,1,Pankaj Kundan Dadure,SOCS-002,SOCS_10.04.2025_E_CSEG3041P_5001_BTech_CS_All_Pankaj Kundan Dadure_1,SOCS,pankajk.dadure@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,VII,CSBD4006P,Big Data Analysis,11,Suchetana Sadhukhan,SOCS-003,SOCS_10.04.2025_E_CSBD4006P_5001_BTech_CS_All_Suchetana Sadhukhan_11,SOCS,suchetana.sadhukhan@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,VII,CSBL4003P,Blockchain Components and Architecture,5,Avishek Majumder,SOCS-004,SOCS_10.04.2025_E_CSBL4003P_5001_BTech_CS_All_Avishek Majumder_5,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,VII,CSDV4007P,Application Containerization & Orchestration,6,Sandeep Pratap Singh,SOCS-005,SOCS_10.04.2025_E_CSDV4007P_5001_BTech_CS_All_Sandeep Pratap Singh_6,SOCS,SPSINGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,VII,CSVT4013P,Container Orchestration & Infrastructure Automation,1,Manish Kumar Giri,SOCS-006,SOCS_10.04.2025_E_CSVT4013P_5001_BTech_CS_All_Manish Kumar Giri_1,SOCS,manishk.giri@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VII,CSAI4004P,Pattern Recognition and Anomaly Detection,14,Pooja Sarin,SOCS-007,SOCS_10.04.2025_E_CSAI4004P_5003_BTech_CS_All_Pooja Sarin_14,SOCS,pooja.sarin@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VII,CSBA4022P,Data Warehouse & Data Mining,4,Sahinur Rahman Laskar,SOCS-008,SOCS_10.04.2025_E_CSBA4022P_5003_BTech_CS_All_Sahinur Rahman Laskar_4,SOCS,sahinur.laskar@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VII,CSVT4013P,Container Orchestration & Infrastructure Automation,6,Manish Kumar Giri,SOCS-009,SOCS_10.04.2025_E_CSVT4013P_5003_BTech_CS_All_Manish Kumar Giri_6,SOCS,manishk.giri@ddn.upes.ac.in
+04-04-2025,M,5001,BCA_CSF/AIML,III,CSBC2024,Java Programming,5,Sachi Choudhary,SOCS-010,SOCS_10.04.2025_M_CSBC2024_5001_BCA_CSF/AIML_Sachi Choudhary_5,SOCS,SCSHUKLA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSDV2004,DevOps Overview & Source Code Management,1,Ambika Aggarwal,SOCS-011,SOCS_10.04.2025_M_CSDV2004_5001_BTech_CS_All_Ambika Aggarwal_1,SOCS,AMBIKA.AGGARWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSEG2021,Design & Analysis of Algorithm,15,Vidyanand Mishra,SOCS-012,SOCS_10.04.2025_M_CSEG2021_5001_BTech_CS_All_Vidyanand Mishra_15,SOCS,VIDYANAND.MISHRA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,III,CSAI8006P,Image Processing and Machine Vision,1,Pankaj Kundan Dadure,SOCS-013,SOCS_10.04.2025_M_CSAI8006P_5001_MCA__Pankaj Kundan Dadure_1,SOCS,pankajk.dadure@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,III,CSCS8002P,Forensic Tools,2,Swati Rastogi,SOCS-014,SOCS_10.04.2025_M_CSCS8002P_5001_MCA__Swati Rastogi_2,SOCS,swati.rastogi@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,III,CSCS8007P,Cloud Application Development,2,Sandeep Pratap Singh,SOCS-015,SOCS_10.04.2025_M_CSCS8007P_5001_MCA__Sandeep Pratap Singh_2,SOCS,SPSINGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,III,CSCS8009P,Cyber Security,3,Sunil Gupta,SOCS-016,SOCS_10.04.2025_M_CSCS8009P_5001_MCA__Sunil Gupta_3,SOCS,S.GUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,III,CSDA8001P,Intractive Data Visualization,1,Sachin Chaudhary,SOCS-017,SOCS_10.04.2025_M_CSDA8001P_5001_MCA__Sachin Chaudhary_1,SOCS,sachin.chaudhary@ddn.upes.ac.in
+04-04-2025,M,5003,BCA_CSF/AIML,III,CSBC2024,Java Programming,8,Sachi Choudhary,SOCS-018,SOCS_10.04.2025_M_CSBC2024_5003_BCA_CSF/AIML_Sachi Choudhary_8,SOCS,SCSHUKLA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_CS_All,VII,CSSF4016P,Ethical hacking and penetration testing,5,Akashdeep Bhardwaj,SOCS-019,SOCS_10.04.2025_M_CSSF4016P_5003_BTech_CS_All_Akashdeep Bhardwaj_5,SOCS,ABHARDWAJ@DDN.UPES.AC.IN
+04-04-2025,M,5003,MCA_,III,CSAI8004P,Natural language Processing,3,Pankaj Kundan Dadure,SOCS-020,SOCS_10.04.2025_M_CSAI8004P_5003_MCA__Pankaj Kundan Dadure_3,SOCS,pankajk.dadure@ddn.upes.ac.in
+04-04-2025,E,5001,BCA_CSF/AIML,V,CSAI3019,Artificial  Intelligence,10,Amit Gurung,SOCS-022,SOCS_11.04.2025_E_CSAI3019_5001_BCA_CSF/AIML_Amit Gurung_10,SOCS,amit.gurung@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSEG3015,Compiler Design,11,Rahul Kumar Singh,SOCS-023,SOCS_11.04.2025_E_CSEG3015_5001_BTech_CS_All_Rahul Kumar Singh_11,SOCS,RK.SINGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSVT3015,Cloud Performance Tuning,4,Saurabh Shanu,SOCS-024,SOCS_11.04.2025_E_CSVT3015_5001_BTech_CS_All_Saurabh Shanu_4,SOCS,SSHANU@DDN.UPES.AC.IN
+04-04-2025,E,5001,MCA_,III,CSCS8001P,Cyber Forensic Procedures and Analysis,2,Gagan Deep Singh,SOCS-025,SOCS_11.04.2025_E_CSCS8001P_5001_MCA__Gagan Deep Singh_2,SOCS,GAGAN@DDN.UPES.AC.IN
+04-04-2025,E,5003,BCA_CSF/AIML,V,CSBC3017,Mobile Application Development,1,Ved Prakash Bhardwaj,SOCS-026,SOCS_11.04.2025_E_CSBC3017_5003_BCA_CSF/AIML_Ved Prakash Bhardwaj_1,SOCS,VPBHARADWAJ@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,V,CSEG3015,Compiler Design,29,Rahul Kumar Singh,SOCS-027,SOCS_11.04.2025_E_CSEG3015_5003_BTech_CS_All_Rahul Kumar Singh_29,SOCS,RK.SINGH@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,V,CSGG3001,Web Programming for GG (HTML 5 & Web GL),1,Alind .,SOCS-028,SOCS_11.04.2025_E_CSGG3001_5005_BTech_CS_All_Alind ._1,SOCS,ALIND@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,V,CSAI3014P,Machine Learning,6,Abhijit Kumar,SOCS-029,SOCS_11.04.2025_M_CSAI3014P_5001_BTech_CS_All_Abhijit Kumar_6,SOCS,ABHIJIT.KUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,V,CSSF3003,Digital Forensics I,3,Swati Rastogi,SOCS-030,SOCS_11.04.2025_M_CSSF3003_5001_BTech_CS_All_Swati Rastogi_3,SOCS,swati.rastogi@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,V,CSSF3018P,Information Security fundamentals,7,Keshav Sinha,SOCS-031,SOCS_11.04.2025_M_CSSF3018P_5001_BTech_CS_All_Keshav Sinha_7,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,I,CSAI7011,Python Programming,2,Anushree Sah,SOCS-032,SOCS_11.04.2025_M_CSAI7011_5001_MCA__Anushree Sah_2,SOCS,ASAH@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,I,CSEG7018,Software Engineering  & Agile Practices,4,Sonali Vyas,SOCS-033,SOCS_11.04.2025_M_CSEG7018_5001_MCA__Sonali Vyas_4,SOCS,SVYAS@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,II,CSEG7014,Java Programming,8,Nayantara Kotoky,SOCS-034,SOCS_11.04.2025_M_CSEG7014_5001_MCA__Nayantara Kotoky_8,SOCS,nayantara.kotoky@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,V,CSAI3014P,Machine Learning,2,Abhijit Kumar,SOCS-035,SOCS_11.04.2025_M_CSAI3014P_5003_BTech_CS_All_Abhijit Kumar_2,SOCS,ABHIJIT.KUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_CS_All,V,CSSF3018P,Information Security fundamentals,1,Keshav Sinha,SOCS-036,SOCS_11.04.2025_M_CSSF3018P_5003_BTech_CS_All_Keshav Sinha_1,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSBA3009,Cognitive Analytics,8,Sugandha Sharma,SOCS-037,SOCS_11.04.2025_M_CSBA3009_5003_BTech_CS_All_Sugandha Sharma_8,SOCS,SUGANDHA.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,III,CSBC2022,Computer Networks,1,Sandip Kumar Chaurasiya,SOCS-038,SOCS_14.04.2025_E_CSBC2022_5001_BCA_CSF/AIML_Sandip Kumar Chaurasiya_1,SOCS,SCHAURASIYA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,III,CSBC2027,Networking & Technology,5,Sunil Gupta,SOCS-039,SOCS_14.04.2025_E_CSBC2027_5001_BCA_CSF/AIML_Sunil Gupta_5,SOCS,S.GUPTA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,IV,CSBC2022,Computer Networks,1,Sandip Kumar Chaurasiya,SOCS-040,SOCS_14.04.2025_E_CSBC2022_5001_BCA_CSF/AIML_Sandip Kumar Chaurasiya_1,SOCS,SCHAURASIYA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,II,CSEG1013,Operating Systems,4,Goutam Datta,SOCS-042,SOCS_14.04.2025_E_CSEG1013_5001_BTech_CS_All_Goutam Datta_4,SOCS,GDATTA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,III,CSSF2005,IT Application & Data Security,1,Keshav Sinha,SOCS-043,SOCS_14.04.2025_E_CSSF2005_5001_BTech_CS_All_Keshav Sinha_1,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,IV,CSEG2030,Computer Graphics,7,Rohit Srivastava,SOCS-045,SOCS_14.04.2025_E_CSEG2030_5001_BTech_CS_All_Rohit Srivastava_7,SOCS,R.SRIVASTAVA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,IV,CSSF2005,IT Application & Data Security,2,Keshav Sinha,SOCS-046,SOCS_14.04.2025_E_CSSF2005_5001_BTech_CS_All_Keshav Sinha_2,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,IV,CSVT2007,Cloud Computing Architecture,1,Anushree Sah,SOCS-047,SOCS_14.04.2025_E_CSVT2007_5001_BTech_CS_All_Anushree Sah_1,SOCS,ASAH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,IV,CSVT2008,Cloud Deployment Models,1,Anushree Sah,SOCS-048,SOCS_14.04.2025_E_CSVT2008_5001_BTech_CS_All_Anushree Sah_1,SOCS,ASAH@DDN.UPES.AC.IN
+04-04-2025,E,5003,BCA_CSF/AIML,IV,CSAI2011,Machine Learning for Business,1,Sandeep Chand Kumain,SOCS-049,SOCS_14.04.2025_E_CSAI2011_5003_BCA_CSF/AIML_Sandeep Chand Kumain_1,SOCS,Sandeep.Kumain@ddn.upes.ac.in
+04-04-2025,E,5003,BCA_CSF/AIML,IV,CSBC2019,Python Programming,1,Deepak Kumar Sharma,SOCS-050,SOCS_14.04.2025_E_CSBC2019_5003_BCA_CSF/AIML_Deepak Kumar Sharma_1,SOCS,DKSHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5003,BCA_CSF/AIML,V,CSSF3020P,Application Security,9,Swati Rastogi,SOCS-051,SOCS_14.04.2025_E_CSSF3020P_5003_BCA_CSF/AIML_Swati Rastogi_9,SOCS,swati.rastogi@ddn.upes.ac.in
+04-04-2025,E,5003,BCA_CSF/AIML,V,CSSF3021,Cyber  Security,3,Adarsh Kumar,SOCS-052,SOCS_14.04.2025_E_CSSF3021_5003_BCA_CSF/AIML_Adarsh Kumar_3,SOCS,ADARSH.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,IV,CSAI2001,Machine Learning,1,Sanoj Kumar,SOCS-053,SOCS_14.04.2025_E_CSAI2001_5003_BTech_CS_All_Sanoj Kumar_1,SOCS,SANOJ.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,IV,CSSF2005,IT Application & Data Security,1,Keshav Sinha,SOCS-054,SOCS_14.04.2025_E_CSSF2005_5003_BTech_CS_All_Keshav Sinha_1,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VI,CSBL3013P,Crypto Currency,3,Avishek Majumder,SOCS-055,SOCS_14.04.2025_E_CSBL3013P_5003_BTech_CS_All_Avishek Majumder_3,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,M,5001,BCA_CSF/AIML,II,CSBC1009,Operating Systems,5,Goutam Datta,SOCS-056,SOCS_14.04.2025_M_CSBC1009_5001_BCA_CSF/AIML_Goutam Datta_5,SOCS,GDATTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,II,CSBC1015,Advanced DBMS,1,Chhotelal Kumar,SOCS-057,SOCS_14.04.2025_M_CSBC1015_5001_BCA_CSF/AIML_Chhotelal Kumar_1,SOCS,chhotelal.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,II,CSEG1014,Computer System Architecture,6,Sushabhan Choudhury,SOCS-058,SOCS_14.04.2025_M_CSEG1014_5001_BTech_CS_All_Sushabhan Choudhury_6,SOCS,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,III,CSEG8004,Computer Networks,1,Sandip Kumar Chaurasiya,SOCS-059,SOCS_14.04.2025_M_CSEG8004_5001_MCA__Sandip Kumar Chaurasiya_1,SOCS,SCHAURASIYA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,III,CSEG8007,Object-Oriented Analysis and Design Using UML,15,Mrinal Maji,SOCS-060,SOCS_14.04.2025_M_CSEG8007_5001_MCA__Mrinal Maji_15,SOCS,Mrinal.Maji@ddn.upes.ac.in
+04-04-2025,M,5001,MTech_CSE_,II,CSEG7004,Data Communication and Computer Networks,2,Dhirendra Kumar Sharma,SOCS-061,SOCS_14.04.2025_M_CSEG7004_5001_MTech_CSE__Dhirendra Kumar Sharma_2,SOCS,DK.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_CS_All,IV,CSDV2006,Development Automation and Linux,2,Nadeem Yousuf Khanday,SOCS-062,SOCS_14.04.2025_M_CSDV2006_5003_BTech_CS_All_Nadeem Yousuf Khanday_2,SOCS,nadeem.khanday@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSBA3003,Business Intelligence,1,Varun Sapra,SOCS-063,SOCS_14.04.2025_M_CSBA3003_5003_BTech_CS_All_Varun Sapra_1,SOCS,VARUN.SAPRA@DDN.UPES.AC.IN
+04-04-2025,M,5003,MCA_,III,CSEG8007,Object-Oriented Analysis and Design Using UML,1,Mrinal Maji,SOCS-064,SOCS_14.04.2025_M_CSEG8007_5003_MCA__Mrinal Maji_1,SOCS,Mrinal.Maji@ddn.upes.ac.in
+04-04-2025,E,5001,BCA_CSF/AIML,II,CSBC1018,Data Structure,3,Sandeep Chand Kumain,SOCS-065,SOCS_15.04.2025_E_CSBC1018_5001_BCA_CSF/AIML_Sandeep Chand Kumain_3,SOCS,Sandeep.Kumain@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSSF3013,IT Network Security,4,Akashdeep Bhardwaj,SOCS-066,SOCS_15.04.2025_E_CSSF3013_5001_BTech_CS_All_Akashdeep Bhardwaj_4,SOCS,ABHARDWAJ@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,VI,CSAI3011,Pattern Recognition & Anomaly Detection,13,Pooja Sarin,SOCS-067,SOCS_15.04.2025_E_CSAI3011_5001_BTech_CS_All_Pooja Sarin_13,SOCS,pooja.sarin@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,VI,CSBD3008,Big Data Search,1,Surbhi Saraswat,SOCS-068,SOCS_15.04.2025_E_CSBD3008_5001_BTech_CS_All_Surbhi Saraswat_1,SOCS,surbhi.saraswat@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VI,CSAI3011,Pattern Recognition & Anomaly Detection,1,Pooja Sarin,SOCS-070,SOCS_15.04.2025_E_CSAI3011_5003_BTech_CS_All_Pooja Sarin_1,SOCS,pooja.sarin@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VI,CSBA3011,"Social, Web and Mobile Analytics",2,Sugandha Sharma,SOCS-071,SOCS_15.04.2025_E_CSBA3011_5003_BTech_CS_All_Sugandha Sharma_2,SOCS,SUGANDHA.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,VI,CSAI3006,Application of ML in Industries,14,Sandeep Chand Kumain,SOCS-073,SOCS_15.04.2025_M_CSAI3006_5001_BTech_CS_All_Sandeep Chand Kumain_14,SOCS,Sandeep.Kumain@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,VI,CSBA3010,Big Data Analytics,2,Suchetana Sadhukhan,SOCS-074,SOCS_15.04.2025_M_CSBA3010_5001_BTech_CS_All_Suchetana Sadhukhan_2,SOCS,suchetana.sadhukhan@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,VI,CSBD3009,Big Data Analysis,2,Saroj Snehal Shivagunde,SOCS-075,SOCS_15.04.2025_M_CSBD3009_5001_BTech_CS_All_Saroj Snehal Shivagunde_2,SOCS,saroj.shivagunde@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,VI,CSDV3011,Applied Devops,2,Amar Shukla,SOCS-076,SOCS_15.04.2025_M_CSDV3011_5001_BTech_CS_All_Amar Shukla_2,SOCS,ASHUKLA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,VI,CSVT3016,Cloud Application Development,4,Sandeep Pratap Singh,SOCS-077,SOCS_15.04.2025_M_CSVT3016_5001_BTech_CS_All_Sandeep Pratap Singh_4,SOCS,SPSINGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,II,CSAI7014P,Knowledge Engineering and Expert Systems,2,Kaushlendra Kumar Sinha,SOCS-078,SOCS_15.04.2025_M_CSAI7014P_5001_MCA__Kaushlendra Kumar Sinha_2,SOCS,Kaushlendra.Sinha@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,II,CSCS7007P,IT security,3,Keshav Sinha,SOCS-079,SOCS_15.04.2025_M_CSCS7007P_5001_MCA__Keshav Sinha_3,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSDV3012,System Provisioning and Cnfg Mgmt,1,Hitesh Kumar Sharma,SOCS-082,SOCS_15.04.2025_M_CSDV3012_5003_BTech_CS_All_Hitesh Kumar Sharma_1,SOCS,HKSHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_CS_All,VI,CSEG3043P,Natural language Processing,1,Anish Kumar Vishwakarma,SOCS-085,SOCS_15.04.2025_M_CSEG3043P_5003_BTech_CS_All_Anish Kumar Vishwakarma_1,SOCS,anishk.vishwakarma@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSGG3002,Introduction to Game Programming,1,Saroj Snehal Shivagunde,SOCS-086,SOCS_15.04.2025_M_CSGG3002_5003_BTech_CS_All_Saroj Snehal Shivagunde_1,SOCS,saroj.shivagunde@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSVT3016,Cloud Application Development,10,Sandeep Pratap Singh,SOCS-088,SOCS_15.04.2025_M_CSVT3016_5003_BTech_CS_All_Sandeep Pratap Singh_10,SOCS,SPSINGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,IV,CSAI2011P,Machine Learning for Business,1,Sandeep Chand Kumain,SOCS-089,SOCS_16.04.2025_E_CSAI2011P_5001_BCA_CSF/AIML_Sandeep Chand Kumain_1,SOCS,Sandeep.Kumain@ddn.upes.ac.in
+04-04-2025,E,5001,BCA_CSF/AIML,IV,CSBC2030P,Design and Anlaysis of Algorithm,5,Kshitij Deepak Kumre,SOCS-090,SOCS_16.04.2025_E_CSBC2030P_5001_BCA_CSF/AIML_Kshitij Deepak Kumre_5,SOCS,KshitijDeepak.Kumre@ddn.upes.ac.in
+04-04-2025,E,5001,BCA_CSF/AIML,IV,CSEG2004P,Computer System Architecture,8,Aryan Bansal,SOCS-091,SOCS_16.04.2025_E_CSEG2004P_5001_BCA_CSF/AIML_Aryan Bansal_8,SOCS,Aryan.Bansal@ddn.upes.ac.in
+04-04-2025,E,5001,BCA_CSF/AIML,IV,CSEG2008P,Software Engineering & Project Managemen,1,Arjun Arora,SOCS-092,SOCS_16.04.2025_E_CSEG2008P_5001_BCA_CSF/AIML_Arjun Arora_1,SOCS,A.ARORA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,III,CSEG2008,Software Engineering & Project Mgmt.,5,Ved Prakash Bhardwaj,SOCS-093,SOCS_16.04.2025_E_CSEG2008_5001_BTech_CS_All_Ved Prakash Bhardwaj_5,SOCS,VPBHARADWAJ@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,IV,CSEG2005,Advanced Database Management Systems,9,Neeraj Chugh,SOCS-094,SOCS_16.04.2025_E_CSEG2005_5001_BTech_CS_All_Neeraj Chugh_9,SOCS,NCHUGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,MCA_,II,CSDA7008P,Exploratory Data Analysis,1,Vibhu Gautam,SOCS-095,SOCS_16.04.2025_E_CSDA7008P_5001_MCA__Vibhu Gautam_1,SOCS,vibhu.gautam@ddn.upes.ac.in
+04-04-2025,M,5001,BCA_CSF/AIML,II,CSBC1014,Linux OS & shell programming,3,Abhijit Kumar,SOCS-096,SOCS_16.04.2025_M_CSBC1014_5001_BCA_CSF/AIML_Abhijit Kumar_3,SOCS,ABHIJIT.KUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,V,CSAI3016,Application domain in AI,1,Mitali Chugh,SOCS-097,SOCS_16.04.2025_M_CSAI3016_5001_BCA_CSF/AIML_Mitali Chugh_1,SOCS,MCHUGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,V,CSAI3016P,Application domain in AI,1,Kapil Gupta,SOCS-098,SOCS_16.04.2025_M_CSAI3016P_5001_BCA_CSF/AIML_Kapil Gupta_1,SOCS,kapil.gupta@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,II,CSEG1011,Data Structures,4,Shiladitya Bhattacharjee,SOCS-099,SOCS_16.04.2025_M_CSEG1011_5001_BTech_CS_All_Shiladitya Bhattacharjee_4,SOCS,shiladitya.bhattacharjee@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,V,ECEG3052,Micro Processor & Embedded Systems,12,Sushabhan Choudhury,SOCS-100,SOCS_16.04.2025_M_ECEG3052_5001_BTech_CS_All_Sushabhan Choudhury_12,SOCS,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,II,CSAI7018P,ML-Using Data for AI,1,Ritesh Kumar,SOCS-101,SOCS_16.04.2025_M_CSAI7018P_5001_MCA__Ritesh Kumar_1,SOCS,ritesh.kumar@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,II,CSDA7007P,Data Analysis and Visualization,1,Gouranga Duari,SOCS-102,SOCS_16.04.2025_M_CSDA7007P_5001_MCA__Gouranga Duari_1,SOCS,gouranga.duari@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,II,CSEG7011,Data Base Management Systems,6,Neeraj Chugh,SOCS-103,SOCS_16.04.2025_M_CSEG7011_5001_MCA__Neeraj Chugh_6,SOCS,NCHUGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,MTech_CSE_,II,CSCS7005P,Cryptography and Cryptanalysis,1,Sandeep Chand Kumain,SOCS-104,SOCS_16.04.2025_M_CSCS7005P_5001_MTech_CSE__Sandeep Chand Kumain_1,SOCS,Sandeep.Kumain@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,V,ECEG3052,Micro Processor & Embedded Systems,30,Sushabhan Choudhury,SOCS-105,SOCS_16.04.2025_M_ECEG3052_5003_BTech_CS_All_Sushabhan Choudhury_30,SOCS,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,M,5005,BTech_CS_All,V,ECEG3052,Micro Processor & Embedded Systems,6,Sushabhan Choudhury,SOCS-106,SOCS_16.04.2025_M_ECEG3052_5005_BTech_CS_All_Sushabhan Choudhury_6,SOCS,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,M,5005,BTech_CS_All,VI,CSBD3010,Stream Processing,2,Shaurya Gupta,SOCS-107,SOCS_16.04.2025_M_CSBD3010_5005_BTech_CS_All_Shaurya Gupta_2,SOCS,shaurya.gupta@ddn.upes.ac.in
+04-04-2025,E,5001,BCA_CSF/AIML,II,CSBC1013,Object-Oriented Analysis and Design,2,Mitali Chugh,SOCS-108,SOCS_17.04.2025_E_CSBC1013_5001_BCA_CSF/AIML_Mitali Chugh_2,SOCS,MCHUGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,V,CSBC3022,Mobile Application Development,5,Kamakshi Rautela,SOCS-109,SOCS_17.04.2025_E_CSBC3022_5001_BCA_CSF/AIML_Kamakshi Rautela_5,SOCS,kamakshi.rautela@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSBL3012P,Introduction to Blockchain,4,Nadeem Yousuf Khanday,SOCS-110,SOCS_17.04.2025_E_CSBL3012P_5001_BTech_CS_All_Nadeem Yousuf Khanday_4,SOCS,nadeem.khanday@ddn.upes.ac.in
+04-04-2025,E,5001,MCA_,III,CSEG8005,Computer Graphics,2,Arjun Arora,SOCS-112,SOCS_17.04.2025_E_CSEG8005_5001_MCA__Arjun Arora_2,SOCS,A.ARORA@DDN.UPES.AC.IN
+04-04-2025,E,5001,MCA_,III,CSIP8001,Computer Graphics,15,Rohit Srivastava,SOCS-113,SOCS_17.04.2025_E_CSIP8001_5001_MCA__Rohit Srivastava_15,SOCS,R.SRIVASTAVA@DDN.UPES.AC.IN
+04-04-2025,E,5003,BCA_CSF/AIML,V,CSBC3022,Mobile Application Development,5,Kamakshi Rautela,SOCS-114,SOCS_17.04.2025_E_CSBC3022_5003_BCA_CSF/AIML_Kamakshi Rautela_5,SOCS,kamakshi.rautela@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_CS_All,VI,CSBA3016P,Applied statistical Analysis,8,Sanoj Kumar,SOCS-115,SOCS_17.04.2025_E_CSBA3016P_5003_BTech_CS_All_Sanoj Kumar_8,SOCS,SANOJ.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,VI,CSVT3016P,Cloud Computing Archt & Deployment Model,14,Avita Katal,SOCS-117,SOCS_17.04.2025_E_CSVT3016P_5003_BTech_CS_All_Avita Katal_14,SOCS,AKATAL@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,VI,CSGG3012,Web Prg for Grap & Gam (HTML 5 & web GL),5,Pankaj Badoni,SOCS-118,SOCS_17.04.2025_E_CSGG3012_5005_BTech_CS_All_Pankaj Badoni_5,SOCS,PBADONI@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,VI,CSSF3009,IT Business C & D  Recovery planning,2,Bhupendra Singh,SOCS-119,SOCS_17.04.2025_E_CSSF3009_5005_BTech_CS_All_Bhupendra Singh_2,SOCS,BHUPENDRA.SINGH@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,VI,CSVT3008,Cloud Security & Management,12,Deepanshu Singh Satwaliya,SOCS-120,SOCS_17.04.2025_E_CSVT3008_5005_BTech_CS_All_Deepanshu Singh Satwaliya_12,SOCS,deepanshus.satwaliya@ddn.upes.ac.in
+04-04-2025,E,5005,BTech_CS_All,VIII,CSBA4013P,"Social, Web and Mobile Analytics",1,Sugandha Sharma,SOCS-121,SOCS_17.04.2025_E_CSBA4013P_5005_BTech_CS_All_Sugandha Sharma_1,SOCS,SUGANDHA.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,VIII,CSBD4007P,In Memory Processing,1,Manobendra Mondal,SOCS-122,SOCS_17.04.2025_E_CSBD4007P_5005_BTech_CS_All_Manobendra Mondal_1,SOCS,manobendra.mondal@ddn.upes.ac.in
+04-04-2025,E,5005,BTech_CS_All,VIII,CSBL4004P,Industry Use Cases using Blockchain,2,Avishek Majumder,SOCS-123,SOCS_17.04.2025_E_CSBL4004P_5005_BTech_CS_All_Avishek Majumder_2,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,E,5005,BTech_CS_All,VIII,CSDV4002P,System Monitoring,1,Arjun Arora,SOCS-124,SOCS_17.04.2025_E_CSDV4002P_5005_BTech_CS_All_Arjun Arora_1,SOCS,A.ARORA@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,VIII,CSEG4015P,Software Quality Assurance,1,Kumar Gaurav,SOCS-125,SOCS_17.04.2025_E_CSEG4015P_5005_BTech_CS_All_Kumar Gaurav_1,SOCS,KUMARG@DDN.UPES.AC.IN
+04-04-2025,E,5005,BTech_CS_All,VIII,CSVT4014P,Cloud Computing Security & Management,2,Sandeep Pratap Singh,SOCS-126,SOCS_17.04.2025_E_CSVT4014P_5005_BTech_CS_All_Sandeep Pratap Singh_2,SOCS,SPSINGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,II,CSIB1002,Python Programming,8,Deepak Kumar Sharma,SOCS-127,SOCS_17.04.2025_M_CSIB1002_5001_BTech_CS_All_Deepak Kumar Sharma_8,SOCS,DKSHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,VI,CSAI3015P,Deep Learning (Neural Networks),2,Shubhi Sharma,SOCS-128,SOCS_17.04.2025_M_CSAI3015P_5001_BTech_CS_All_Shubhi Sharma_2,SOCS,SHUBHI.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,VI,CSBD3002P,Advanced Functional Thinking,7,Vishal Kumar Lohan,SOCS-129,SOCS_17.04.2025_M_CSBD3002P_5001_BTech_CS_All_Vishal Kumar Lohan_7,SOCS,vishal.lohan@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSAI3005P,Programming with Python,1,Kamakshi Rautela,SOCS-131,SOCS_17.04.2025_M_CSAI3005P_5003_BTech_CS_All_Kamakshi Rautela_1,SOCS,kamakshi.rautela@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSAI3015P,Deep Learning (Neural Networks),7,Shubhi Sharma,SOCS-132,SOCS_17.04.2025_M_CSAI3015P_5003_BTech_CS_All_Shubhi Sharma_7,SOCS,SHUBHI.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_CS_All,VI,CSIS3013P,"Sensors, Instrumentation and WSN",1,Ritesh Kumar,SOCS-133,SOCS_17.04.2025_M_CSIS3013P_5003_BTech_CS_All_Ritesh Kumar_1,SOCS,ritesh.kumar@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSSF3014,Digital Forensics II,14,Avishek Majumder,SOCS-134,SOCS_17.04.2025_M_CSSF3014_5003_BTech_CS_All_Avishek Majumder_14,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,VI,CSSF3019P,IT Systems & Network Security,3,Dhirendra Kumar Sharma,SOCS-135,SOCS_17.04.2025_M_CSSF3019P_5003_BTech_CS_All_Dhirendra Kumar Sharma_3,SOCS,DK.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSAI3010,Algo for Intl'gnt Systems & Robotics,6,Anil Kumar,SOCS-137,SOCS_7.04.2025_E_CSAI3010_5001_BTech_CS_All_Anil Kumar_6,SOCS,k.anil@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSBA3001,Data mining & Prediction Modeling,2,Poonam Kainthura,SOCS-138,SOCS_7.04.2025_E_CSBA3001_5001_BTech_CS_All_Poonam Kainthura_2,SOCS,PKAINTHURA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSBD3002,Advanced Functional Thinking,3,Shubhi Sharma,SOCS-139,SOCS_7.04.2025_E_CSBD3002_5001_BTech_CS_All_Shubhi Sharma_3,SOCS,SHUBHI.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSBD3013P,Big Data Overview,1,Sugandha Sharma,SOCS-140,SOCS_7.04.2025_E_CSBD3013P_5001_BTech_CS_All_Sugandha Sharma_1,SOCS,SUGANDHA.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSBL3002,Industry Use Cases using Blockchain,3,Avishek Majumder,SOCS-141,SOCS_7.04.2025_E_CSBL3002_5001_BTech_CS_All_Avishek Majumder_3,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSBL3009,Blockchain Components and Architecture,2,Avishek Majumder,SOCS-142,SOCS_7.04.2025_E_CSBL3009_5001_BTech_CS_All_Avishek Majumder_2,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSDV3010,Appl Containerization  and Orchestration,2,Rohit Srivastava,SOCS-143,SOCS_7.04.2025_E_CSDV3010_5001_BTech_CS_All_Rohit Srivastava_2,SOCS,R.SRIVASTAVA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSDV3016P,DevOps Overview,6,Ambika Aggarwal,SOCS-144,SOCS_7.04.2025_E_CSDV3016P_5001_BTech_CS_All_Ambika Aggarwal_6,SOCS,AMBIKA.AGGARWAL@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSEG3040P,Cryptography and Network Security,1,Poonam Kainthura,SOCS-145,SOCS_7.04.2025_E_CSEG3040P_5001_BTech_CS_All_Poonam Kainthura_1,SOCS,PKAINTHURA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSGG3011,Advanced Game Programming Algorithm,3,Alind .,SOCS-146,SOCS_7.04.2025_E_CSGG3011_5001_BTech_CS_All_Alind ._3,SOCS,ALIND@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,V,CSTI3009,Realtime Operating Systems Internals,1,Amar Jindal,SOCS-148,SOCS_7.04.2025_E_CSTI3009_5003_BTech_CS_All_Amar Jindal_1,SOCS,amar.jindal@ddn.upes.ac.in
+04-04-2025,M,5001,BCA_CSF/AIML,I,CSBC1012,DBMS,4,Neeraj Chugh,SOCS-150,SOCS_7.04.2025_M_CSBC1012_5001_BCA_CSF/AIML_Neeraj Chugh_4,SOCS,NCHUGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,I,MATH1037,Mathematics,1,Sandeep Dixit,SOCS-151,SOCS_7.04.2025_M_MATH1037_5001_BCA_CSF/AIML_Dr. Sandeep Dixit_1,SOCS,SDIXIT@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,V,CSBA3014P,Introduction to Business Analytics,5,Shubhi Sharma,SOCS-154,SOCS_7.04.2025_M_CSBA3014P_5001_BTech_CS_All_Shubhi Sharma_5,SOCS,SHUBHI.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,I,HRES7018,Business Communication & Ethics,2,Amrita Chaskar,SOCS-156,SOCS_7.04.2025_M_HRES7018_5001_MCA__Amrita Chaskar_2,SOCS,Amrita.Chaskar@ddn.upes.ac.in
+04-04-2025,M,5001,MTech_CSE_,I,CSEG7002,Advance Database Management Systems,1,Mitali Chugh,SOCS-157,SOCS_7.04.2025_M_CSEG7002_5001_MTech_CSE__Mitali Chugh_1,SOCS,MCHUGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,IV,CSSF2011P,Data and Network Security,10,Chhotelal Kumar,SOCS-158,SOCS_8.04.2025_E_CSSF2011P_5001_BCA_CSF/AIML_Chhotelal Kumar_10,SOCS,chhotelal.kumar@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,III,CSAI2007,Introduction to Artificial Intelligence,3,Abhijit Kumar,SOCS-159,SOCS_8.04.2025_E_CSAI2007_5001_BTech_CS_All_Abhijit Kumar_3,SOCS,ABHIJIT.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,VII,CSGG4008,GPU Programming,1,Alind .,SOCS-160,SOCS_8.04.2025_E_CSGG4008_5001_BTech_CS_All_Alind ._1,SOCS,ALIND@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,VII,CSGG4009,GPU Programming,1,Alind .,SOCS-161,SOCS_8.04.2025_E_CSGG4009_5001_BTech_CS_All_Alind ._1,SOCS,ALIND@DDN.UPES.AC.IN
+04-04-2025,E,5001,MCA_,II,CSEG7016,Operating System,1,Goutam Datta,SOCS-162,SOCS_8.04.2025_E_CSEG7016_5001_MCA__Goutam Datta_1,SOCS,GDATTA@DDN.UPES.AC.IN
+04-04-2025,E,5001,MCA_,II,CSEG7016,Operating Systems,2,Goutam Datta,SOCS-163,SOCS_8.04.2025_E_CSEG7016_5001_MCA__Goutam Datta_2,SOCS,GDATTA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,III,CSAI2010P,Introduction to Artificial Intelligence,1,Alok Aggarwal,SOCS-164,SOCS_8.04.2025_M_CSAI2010P_5001_BCA_CSF/AIML_Alok Aggarwal_1,SOCS,ALOK.AGGARWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,III,CSBD2009P,Statistics for Data Science,5,Sanoj Kumar,SOCS-165,SOCS_8.04.2025_M_CSBD2009P_5001_BCA_CSF/AIML_Sanoj Kumar_5,SOCS,SANOJ.KUMAR@DDN.UPES.AC.IN
+04-04-2025,M,5001,BCA_CSF/AIML,III,CSEG2036P,Probability and Statistics for Engineers,1,Sugandha Sharma,SOCS-166,SOCS_8.04.2025_M_CSEG2036P_5001_BCA_CSF/AIML_Sugandha Sharma_1,SOCS,SUGANDHA.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSBA2007,Data Visualization for Analytics,1,Khushboo Jain,SOCS-169,SOCS_8.04.2025_M_CSBA2007_5001_BTech_CS_All_Khushboo Jain_1,SOCS,khushboo.jain@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,III,CSBA2010,Applied Statistics,3,SUGANDHA SHARMA,SOCS-170,SOCS_8.04.2025_M_CSBA2010_5001_BTech_CS_All_SUGANDHA SHARMA_3,SOCS,SUGANDHA.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSDV2005,Agile Practices,1,Arjun Arora,SOCS-171,SOCS_8.04.2025_M_CSDV2005_5001_BTech_CS_All_Arjun Arora_1,SOCS,A.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSIS2007,Intro to Sensor Techno & Instrumentation,1,Bhupendra Singh,SOCS-172,SOCS_8.04.2025_M_CSIS2007_5001_BTech_CS_All_Bhupendra Singh_1,SOCS,BHUPENDRA.SINGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSSF2009,IT Systems Security & Physical Security,1,Dhirendra Kumar Sharma,SOCS-173,SOCS_8.04.2025_M_CSSF2009_5001_BTech_CS_All_Dhirendra Kumar Sharma_1,SOCS,DK.SHARMA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSVT2001,Intro. to Virtualiza. & Cloud Computing,5,Avita Katal,SOCS-174,SOCS_8.04.2025_M_CSVT2001_5001_BTech_CS_All_Avita Katal_5,SOCS,AKATAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,I,CSCS7006,Introdcution to Cyber Security,1,Vinod Patidar,SOCS-175,SOCS_8.04.2025_M_CSCS7006_5001_MCA__Vinod Patidar_1,SOCS,vinod.patidar@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,III,CSAI8003P,Deep learning and ANN,6,Syed Sajid Hussain,SOCS-176,SOCS_8.04.2025_M_CSAI8003P_5001_MCA__Syed Sajid Hussain_6,SOCS,syed.hussain@ddn.upes.ac.in
+04-04-2025,M,5001,MCA_,III,CSAI8010P,Artificial Intelligence,1,Sunil Gupta,SOCS-177,SOCS_8.04.2025_M_CSAI8010P_5001_MCA__Sunil Gupta_1,SOCS,S.GUPTA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BCA_CSF/AIML,III,CSBD2009P,Statistics for Data Science,1,Sanoj Kumar,SOCS-178,SOCS_8.04.2025_M_CSBD2009P_5003_BCA_CSF/AIML_Sanoj Kumar_1,SOCS,SANOJ.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,IV,ECEG3048,Control system Engineering,1,Sushabhan Choudhury,SOCS-179,SOCS_9.04.2025_E_ECEG3048_5001_BCA_CSF/AIML_Sushabhan Choudhury_1,SOCS,SCHOUDHURY@DDN.UPES.AC.IN
+04-04-2025,E,5001,BCA_CSF/AIML,V,CSBC3020P, Microservices & Containerization,1,Abhirup Khanna,SOCS-180,SOCS_9.04.2025_E_CSBC3020P_5001_BCA_CSF/AIML_Abhirup Khanna_1,SOCS,AKHANNA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,I,CSEG1010,Principles of Programming Languages,1,Tanu Singh,SOCS-181,SOCS_9.04.2025_E_CSEG1010_5001_BTech_CS_All_Tanu Singh_1,SOCS,tanu.singh@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_CS_All,V,CSVT3009,Container Orchestration & Infra. Auto.,10,Abhirup Khanna,SOCS-183,SOCS_9.04.2025_E_CSVT3009_5001_BTech_CS_All_Abhirup Khanna_10,SOCS,AKHANNA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BTech_CS_All,V,CSVT3022P,Cloud Computing Fundamentals,9,Avita Katal,SOCS-184,SOCS_9.04.2025_E_CSVT3022P_5001_BTech_CS_All_Avita Katal_9,SOCS,AKATAL@DDN.UPES.AC.IN
+04-04-2025,E,5003,BCA_CSF/AIML,V,CSBC3020P,Microservices & Containerization,11,Abhirup Khanna,SOCS-185,SOCS_9.04.2025_E_CSBC3020P_5003_BCA_CSF/AIML_Abhirup Khanna_11,SOCS,AKHANNA@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,V,CSAI3001,Neural Networks,3,Dhirendra Kumar Sharma,SOCS-186,SOCS_9.04.2025_E_CSAI3001_5003_BTech_CS_All_Dhirendra Kumar Sharma_3,SOCS,DK.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,V,CSBA3004,Operation Research & Optimization,3,Sanoj Kumar,SOCS-187,SOCS_9.04.2025_E_CSBA3004_5003_BTech_CS_All_Sanoj Kumar_3,SOCS,SANOJ.KUMAR@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,V,CSMC3014,Mobile Application Development(5th),2,Ved Prakash Bhardwaj,SOCS-188,SOCS_9.04.2025_E_CSMC3014_5003_BTech_CS_All_Ved Prakash Bhardwaj_2,SOCS,VPBHARADWAJ@DDN.UPES.AC.IN
+04-04-2025,E,5003,BTech_CS_All,V,CSVT3009,Container Orchestration & Infra. Auto.,3,Abhirup Khanna,SOCS-189,SOCS_9.04.2025_E_CSVT3009_5003_BTech_CS_All_Abhirup Khanna_3,SOCS,AKHANNA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,I,MATH1036,Engineering Mathematics,5,Akmal Husain,SOCS-190,SOCS_9.04.2025_M_MATH1036_5001_BTech_CS_All_Dr. Akmal Husain_5,SOCS,AHUSAIN@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_CS_All,III,CSBL2004,Introduction to Blockchain,1,Avishek Majumder,SOCS-191,SOCS_9.04.2025_M_CSBL2004_5001_BTech_CS_All_Avishek Majumder_1,SOCS,avishek.majumder@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,III,CSSF2001,Information Security fundamentals,1,Keshav Sinha,SOCS-192,SOCS_9.04.2025_M_CSSF2001_5001_BTech_CS_All_Keshav Sinha_1,SOCS,keshav.sinha@ddn.upes.ac.in
+04-04-2025,M,5001,BTech_CS_All,IV,CSEG2009,Data Communication and Computer Networks,11,Ved Prakash Bhardwaj,SOCS-193,SOCS_9.04.2025_M_CSEG2009_5001_BTech_CS_All_Ved Prakash Bhardwaj_11,SOCS,VPBHARADWAJ@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,I,CSAI7012,Problem Domains of AI,3,Mitali Chugh,SOCS-194,SOCS_9.04.2025_M_CSAI7012_5001_MCA__Mitali Chugh_3,SOCS,MCHUGH@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,I,CSEG7010,Software Engineering &Project Management,1,Ved Prakash Bhardwaj,SOCS-195,SOCS_9.04.2025_M_CSEG7010_5001_MCA__Ved Prakash Bhardwaj_1,SOCS,VPBHARADWAJ@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,I,CSEG7015,Data Structure,6,Ambika Aggarwal,SOCS-196,SOCS_9.04.2025_M_CSEG7015_5001_MCA__Ambika Aggarwal_6,SOCS,AMBIKA.AGGARWAL@DDN.UPES.AC.IN
+04-04-2025,M,5001,MCA_,III,CSEG8003,Modeling and simulation,1,Vinod Patidar,SOCS-197,SOCS_9.04.2025_M_CSEG8003_5001_MCA__Vinod Patidar_1,SOCS,vinod.patidar@ddn.upes.ac.in
+04-04-2025,M,5001,MTech_CSE_,I,CSEG7003,Statistical Model. for Computer Sciences,1,Anand Kumar,SOCS-198,SOCS_9.04.2025_M_CSEG7003_5001_MTech_CSE__Anand Kumar_1,SOCS,anand.kumar@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,IV,CSEG2009,Data Communication and Computer Networks,1,Ved Prakash Bhardwaj,SOCS-199,SOCS_9.04.2025_M_CSEG2009_5003_BTech_CS_All_Ved Prakash Bhardwaj_1,SOCS,VPBHARADWAJ@DDN.UPES.AC.IN
+04-04-2025,M,5003,BTech_CS_All,V,CSBD3003,In-Memory Processing,3,Shaurya Gupta,SOCS-200,SOCS_9.04.2025_M_CSBD3003_5003_BTech_CS_All_Shaurya Gupta_3,SOCS,shaurya.gupta@ddn.upes.ac.in
+04-04-2025,M,5003,BTech_CS_All,V,CSDV3009,Continuous Integrtn & Continous Delivery,6,Dhirendra Kumar Sharma,SOCS-201,SOCS_9.04.2025_M_CSDV3009_5003_BTech_CS_All_Dhirendra Kumar Sharma_6,SOCS,DK.SHARMA@DDN.UPES.AC.IN
+04-04-2025,E,5001,BPharm_,V,BP505T,Pharmaceutical Jurisprudence,1,Iram Khan,SOHST-001,SOHST_10.04.2025_E_BP505T_5001_BPharm__Dr. Iram Khan_1,SOHST,iram.khan@ddn.upes.ac.in
+04-04-2025,E,5001,BPharm_,VII,BP702T,Industrial PharmacyII,6,Richa Bahuguna,SOHST-002,SOHST_10.04.2025_E_BP702T_5001_BPharm__Dr. Richa Bahuguna_6,SOHST,richa.bahuguna@ddn.upes.ac.in
+04-04-2025,E,5001,IntBSc_MSc_Micro,V,HSMB3015,Fermentation Technology,1,Smriti Arora,SOHST-003,SOHST_10.04.2025_E_HSMB3015_5001_IntBSc_MSc_Micro_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,IntBSc_MSc_CR,III,HSCR2012,Pharmacology I,2,Shubham Dwivedi,SOHST-004,SOHST_10.04.2025_M_HSCR2012_5001_IntBSc_MSc_CR_Dr. Shubham Dwivedi_2,SOHST,shubham.dwivedi@ddn.upes.ac.in
+04-04-2025,M,5003,BPharm_,VII,BP704T,Novel Drug Delivery System,2,Rajendra Awasthi,SOHST-006,SOHST_10.04.2025_M_BP704T_5003_BPharm__Dr. Rajendra Awasthi_2,SOHST,rajendra.awasthi@ddn.upes.ac.in
+04-04-2025,M,5003,BPharm_,VIII,BP807ET,Computer Aided Drug Design,1,Amritansh Bhanot,SOHST-007,SOHST_10.04.2025_M_BP807ET_5003_BPharm__Dr. Amritansh Bhanot_1,SOHST,amritansh.bhanot@ddn.upes.ac.in
+04-04-2025,E,5001,BPharm_,V,BP504T,Pharmacognosy & Phytochemistry II,4,Sandhya S,SOHST-008,SOHST_11.04.2025_E_BP504T_5001_BPharm__Dr. Sandhya S_4,SOHST,sandhya.s@ddn.upes.ac.in
+04-04-2025,E,5003,BPharm_,VII,BP703T,Pharmacy Practice,2,Jyoti Upadhyay,SOHST-009,SOHST_11.04.2025_E_BP703T_5003_BPharm__Dr. Jyoti Upadhyay_2,SOHST,JUPADHYAY@DDN.UPES.AC.IN
+04-04-2025,M,5001,BPharm_,VI,BP606T,Quality Assurance,5,Rajendra Awasthi,SOHST-010,SOHST_11.04.2025_M_BP606T_5001_BPharm__Dr. Rajendra Awasthi_5,SOHST,rajendra.awasthi@ddn.upes.ac.in
+04-04-2025,M,5001,BPharm_,VIII,BP809ET,Cosmetic Science,1,Richa Bahuguna,SOHST-011,SOHST_11.04.2025_M_BP809ET_5001_BPharm__Dr. Richa Bahuguna_1,SOHST,richa.bahuguna@ddn.upes.ac.in
+04-04-2025,E,5001,IntBSc_MSc_CR,V,HSCR3011,Pharmacotherapeutics I,1,Rohini Verma,SOHST-017,SOHST_7.04.2025_E_HSCR3011_5001_IntBSc_MSc_CR_Dr. Rohini Verma_1,SOHST,rohini.verma@ddn.upes.ac.in
+04-04-2025,E,5001,IntBSc_MSc_Micro,V,HSMB3016,Environment & Agricultural Microbiology,3,Subhajit Basu,SOHST-019,SOHST_7.04.2025_E_HSMB3016_5001_IntBSc_MSc_Micro_Dr. Subhajit Basu_3,SOHST,subhajit.basu@ddn.upes.ac.in
+04-04-2025,E,5003,BTech_HS_BioT,VII,HSBT4004,Medicinal Chemistry,1,Ravi Rawat,SOHST-022,SOHST_7.04.2025_E_HSBT4004_5003_BTech_HS_BioT_Dr. Ravi Rawat_1,SOHST,ravi.rawat@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_CR,II,HSCC1022,Biostatistics and Epidemiology,1,Himanshu Tolani,SOHST-025,SOHST_7.04.2025_M_HSCC1022_5001_BSc_CR_Dr. Himanshu Tolani_1,SOHST,Himanshu.Tolani@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_FND,I,HSCC1002,Human Anatomy and Physiology I,1,Ravi Rawat,SOHST-026,SOHST_7.04.2025_M_HSCC1002_5001_BSc_FND_Dr. Ravi Rawat_1,SOHST,ravi.rawat@ddn.upes.ac.in
+04-04-2025,M,5001,IntBSc_MSc_Micro,I,HSCC1002,Human Anatomy and Physiology I,1,Ravi Rawat,SOHST-029,SOHST_7.04.2025_M_HSCC1002_5001_IntBSc_MSc_Micro_Dr. Ravi Rawat_1,SOHST,ravi.rawat@ddn.upes.ac.in
+04-04-2025,M,5001,IntBSc_MSc_Micro,III,HSMB2003,Bacteriology,1,Smriti Arora,SOHST-030,SOHST_7.04.2025_M_HSMB2003_5001_IntBSc_MSc_Micro_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MSc_Micro,II,HSMB7026,Molecular Biology and Genetics,1,Smriti Arora,SOHST-031,SOHST_7.04.2025_M_HSMB7026_5001_MSc_Micro_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5003,IntBSc_MSc_ND,VI,HSND7003,Human Nutrition,1,Soumya Gupta,SOHST-041,SOHST_7.04.2025_M_HSND7003_5003_IntBSc_MSc_ND_Dr. Soumya Gupta_1,SOHST,soumya.gupta@ddn.upes.ac.in
+04-04-2025,E,5001,BSc_FND,II,HSCC1007,Human Anatomy and Physiology II,2,Divya Tripathi,SOHST-042,SOHST_8.04.2025_E_HSCC1007_5001_BSc_FND_Dr. Divya Tripathi_2,SOHST,divya.tripathi@ddn.upes.ac.in
+04-04-2025,E,5001,BTech_HS_BioT,IV,HSCC2023,Unit Operations,1,Murali Pujari,SOHST-044,SOHST_8.04.2025_E_HSCC2023_5001_BTech_HS_BioT_Dr. Murali Pujari_1,SOHST,MPUJARI@DDN.UPES.AC.IN
+04-04-2025,E,5001,IntBSc_MSc_CR,V,HSCR3020P,Data Management Technologies,1,Ravi Rawat,SOHST-045,SOHST_8.04.2025_E_HSCR3020P_5001_IntBSc_MSc_CR_Dr. Ravi Rawat_1,SOHST,ravi.rawat@ddn.upes.ac.in
+04-04-2025,E,5003,BPharm_,V,BP503T,Pharmacology II,7,Shubham Dwivedi,SOHST-047,SOHST_8.04.2025_E_BP503T_5003_BPharm__Dr. Shubham Dwivedi_7,SOHST,shubham.dwivedi@ddn.upes.ac.in
+04-04-2025,M,5001,BPharm_,IV,BP404T,Pharmacology I,1,Shubham Dwivedi,SOHST-049,SOHST_8.04.2025_M_BP404T_5001_BPharm__Dr. Shubham Dwivedi_1,SOHST,shubham.dwivedi@ddn.upes.ac.in
+04-04-2025,M,5001,BSc_Micro,IV,HSMB2020,Pathogenesis of Human Microbial Diseases,3,Smriti Arora,SOHST-051,SOHST_8.04.2025_M_HSMB2020_5001_BSc_Micro_Dr. Smriti Arora_3,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BTech_HS_BioT,V,HSBT3002,Bioreactor Design and Analysis,4,Divya Tripathi,SOHST-052,SOHST_8.04.2025_M_HSBT3002_5001_BTech_HS_BioT_Dr. Divya Tripathi_4,SOHST,divya.tripathi@ddn.upes.ac.in
+04-04-2025,M,5001,IntBSc_MSc_Micro,III,HSMB2004,Virology,1,Smriti Arora,SOHST-054,SOHST_8.04.2025_M_HSMB2004_5001_IntBSc_MSc_Micro_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5003,BPharm_,VI,BP602T,Pharmacology III,3,Arti Singh,SOHST-056,SOHST_8.04.2025_M_BP602T_5003_BPharm__Dr. Arti Singh_3,SOHST,Arti.Singh1@ddn.upes.ac.in
+04-04-2025,M,5003,BPharm_,VIII,BP802T,Social and Preventive Pharmacy,2,Richa Bahuguna,SOHST-057,SOHST_8.04.2025_M_BP802T_5003_BPharm__Dr. Richa Bahuguna_2,SOHST,richa.bahuguna@ddn.upes.ac.in
+04-04-2025,M,5003,IntBSc_MSc_Micro,VI,HSMB3025P,AMR  Drug Development,2,Subhajit Basu,SOHST-060,SOHST_8.04.2025_M_HSMB3025P_5003_IntBSc_MSc_Micro_Dr. Subhajit Basu_2,SOHST,subhajit.basu@ddn.upes.ac.in
+04-04-2025,E,5001,BPharm_,VII,BP701T,Instrumental Methods of Analysis,4,Deepanmol Singh,SOHST-062,SOHST_9.04.2025_E_BP701T_5001_BPharm__Dr. Deepanmol Singh_4,SOHST,D.SINGH@DDN.UPES.AC.IN
+04-04-2025,E,5001,BSc_FND,II,HSMB1008,Molecular Biology,1,Smriti Arora,SOHST-063,SOHST_9.04.2025_E_HSMB1008_5001_BSc_FND_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,BSc_Micro,IV,HSMB2025,Diagnostic Microbiology (HSMB2025_2),1,Smriti Arora,SOHST-066,SOHST_9.04.2025_M_HSMB2025_5001_BSc_Micro_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,IntBSc_MSc_CR,III,HSCC2021,Site Management Operations,1,Jyoti ,SOHST-067,SOHST_9.04.2025_M_HSCC2021_5001_IntBSc_MSc_CR_Dr. Jyoti _1,SOHST,jupadhyay@ddn.upes.ac.in
+04-04-2025,M,5001,IntBSc_MSc_Micro,III,HSMB2006,Microbial Physiology & Metabolism,1,Smriti Arora,SOHST-068,SOHST_9.04.2025_M_HSMB2006_5001_IntBSc_MSc_Micro_Dr. Smriti Arora_1,SOHST,SMRITI.ARORA@DDN.UPES.AC.IN
+04-04-2025,M,5001,MSc_ND,I,HSMB7033O,Microbial Physiology and Immunology,1,Suvendu Manna ,SOHST-069,SOHST_9.04.2025_M_HSMB7033O_5001_MSc_ND_Dr. Suvendu Manna _1,SOHST,Suvendu Manna 
+04-04-2025,M,5003,BPharm_,VI,BP603T,Herbal Drug Technology,8,Sandhya S,SOHST-070,SOHST_9.04.2025_M_BP603T_5003_BPharm__Dr. Sandhya S_8,SOHST,sandhya.s@ddn.upes.ac.in
+04-04-2025,M,5003,BPharm_,VIII,BP804ET,Pharmaceutical Regulatory Science,2,Rajendra Awasthi,SOHST-071,SOHST_9.04.2025_M_BP804ET_5003_BPharm__Dr. Rajendra Awasthi_2,SOHST,rajendra.awasthi@ddn.upes.ac.in
+04-04-2025,M,5003,IntBSc_MSc_Micro,VI,HSMB3018,Synthetic Biology,3,Divya Tripathi,SOHST-072,SOHST_9.04.2025_M_HSMB3018_5003_IntBSc_MSc_Micro_Dr. Divya Tripathi_3,SOHST,divya.tripathi@ddn.upes.ac.in
